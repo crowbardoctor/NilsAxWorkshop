@@ -1,0 +1,47 @@
+ACTOR GeneStealer 325
+{
+  Scale 0.5
+  Health 150
+  PainChance 180
+  Speed 10
+  Radius 30
+  Height 56
+  Mass 400
+  Monster
+  +FLOORCLIP
+  SeeSound "demon/sight"
+  AttackSound "demon/melee"
+  PainSound "demon/pain"
+  DeathSound "demon/death"
+  ActiveSound "demon/active"
+  Obituary "$OB_DEMONHIT" // "%o was bit by a demon."
+  States
+  {
+  Spawn:
+    STEA AB 10 A_Look
+    Loop
+  See:
+    STEA AABBCCDD 2 Fast A_Chase
+    Loop
+  Melee:
+    STEA EF 8 Fast A_FaceTarget
+    STEA G 8 Fast A_SargAttack
+    Goto See
+  Pain:
+    STEA H 2 Fast
+    STEA H 2 Fast A_Pain
+    Goto See
+  Death:
+    STEA I 8
+    STEA J 8 A_Scream
+    STEA K 4
+    STEA L 4 A_NoBlocking
+    STEA M 4
+    STEA N -1
+    Stop
+  Raise:
+    STEA N 5
+    STEA MLKJI 5
+    Goto See
+  }
+}

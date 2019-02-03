@@ -1,1 +1,2 @@
 #include "decorate/PlayerClasses.txt"
+#include "decorate/Monsters.txt"
