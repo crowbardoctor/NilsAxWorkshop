@@ -1,6 +1,6 @@
 Actor TermDoomPlayer: DoomPlayer replaces DoomPlayer
 {
-Height 76
+Height 64
 Player.DisplayName "Terminator"
 Player.WeaponSlot 1, "Fist"
 Player.WeaponSlot 2, "Shotgun", "UZI"
