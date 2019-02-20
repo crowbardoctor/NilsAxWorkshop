@@ -7,7 +7,6 @@ episode MAP01
 map map03 "The Perimeter"
 {sky1 = SKY1, 0.0
 //music = D_MAP03
-fallingdamage
 }
 
 episode OGMAP01
@@ -18,5 +17,4 @@ episode OGMAP01
 map ogmap01 "Exterminate"
 {sky1 = SKY1, 0.0
 //music = D_MAP03
-fallingdamage
 }

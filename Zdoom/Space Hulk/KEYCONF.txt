@@ -7,3 +7,6 @@ addslotdefault 1 Chainsword
 
 weaponsection "Chaingun"
 addslotdefault 2 Chaingun
+
+WEAPONSECTION "TOMMY"
+SETSLOT 4 StormBolter
