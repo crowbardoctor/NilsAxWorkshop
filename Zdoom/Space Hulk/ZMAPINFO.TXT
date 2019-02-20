@@ -10,3 +10,14 @@ map map03 "The Perimeter"
 //music = D_MAP03
 fallingdamage
 }
+
+episode OGMAP01
+{name = "Space Hulk Originals"
+//music = "D_RUNNIN.WAV"
+}
+
+map ogmap01 "Exterminate"
+{sky1 = SKY1, 0.0
+//music = D_MAP03
+fallingdamage
+}

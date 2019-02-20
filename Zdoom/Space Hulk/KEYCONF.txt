@@ -1,2 +1,9 @@
 clearplayerclasses
 addplayerclass "TermDoomPlayer"
+addplayerclass "TermAssultPlayer"
+
+weaponsection "Chain sword"
+addslotdefault 1 Chainsword
+
+weaponsection "Chaingun"
+addslotdefault 2 Chaingun
