@@ -11,10 +11,16 @@ map map03 "The Perimeter"
 
 episode OGMAP01
 {name = "Space Hulk Originals"
-//music = "D_RUNNIN.WAV"
 }
 
-map ogmap01 "Exterminate"
+map ogmap01 "Suicide Mission"
 {sky1 = SKY1, 0.0
+next = "ogmap02"
+//music = D_MAP03
+}
+
+map ogmap02 "Exterminate"
+{sky1 = SKY1, 0.0
+next = "ogmap03"
 //music = D_MAP03
 }

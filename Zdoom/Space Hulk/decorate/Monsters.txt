@@ -12,7 +12,7 @@ ACTOR GeneStealer 325
   SeeSound "demon/sight"
   AttackSound "demon/melee"
   PainSound "demon/pain"
-  DeathSound "demon/death"
+  DeathSound "Stealer/death"
   ActiveSound "demon/active"
   Obituary "%o was bit by a Gene Stealer."
   States
