@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/re2_marvin_branagh/body"
+	"$bumpmap" "models/re2_marvin_branagh/body_normals"
+   	"$halflambert" "1"
+	"$nocull" "1"
+	"$nodecal" "1"
+	
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.1 .1 .1]"
+}

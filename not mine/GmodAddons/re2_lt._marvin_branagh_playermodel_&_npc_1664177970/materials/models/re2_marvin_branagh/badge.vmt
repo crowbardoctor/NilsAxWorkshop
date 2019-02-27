@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/re2_marvin_branagh/bandage"
+	"$bumpmap" "models/re2_marvin_branagh/bandage_normals"
+   	"$halflambert" "1"
+	"$nocull" "1"
+	"$nodecal" "1"
+	"$selfillum"            "1"
+	
+	"$color" 				"[0.68 0.69 0.7]"
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "100"
+	"$phongfresnelranges" "[2 4 6]"
+	"$phongtint" 			"[0.5 0.5 0.6]"		
+	"$PhongAlbedoTint" "1"
+	"$rimlight" "1"
+	"$rimmask" "1"
+	"$rimlightboost" "1"
+	
+	"$envmap" "env_cubemap"					
+	"$envmaptint" "[0.4 0.4 0.4]"	
+	"$normalmapalphaenvmapmask" 	"1"
+	"$rimlight"              "1"
+	"$rimlightexponent"       "250"
+	"$rimlightboost"          ".1"	
+	"$rimmask" "1"
+
+	"$lightwarptexture" "models/re2_marvin_branagh/lightwarptexture"
+}
