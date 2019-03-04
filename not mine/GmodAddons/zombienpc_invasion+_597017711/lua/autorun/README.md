@@ -21,7 +21,7 @@ Please rate this addon! Thanks
 * Chase players setting
 
 
-Settings
+### Settings
 You can change all of the settings via the spawn menu interface (in the Q menu) or through the GMod console.
 
 In the GMod console you can use the following commands: 
