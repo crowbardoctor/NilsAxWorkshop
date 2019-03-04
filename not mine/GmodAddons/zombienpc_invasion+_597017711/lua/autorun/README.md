@@ -13,7 +13,7 @@ This mod REQUIRES NPC info_nodes to work properly on all maps. Without them NPCs
 
 Please rate this addon! Thanks 
 
-Features
+### Features
 Multiple spawn profiles
 Advanced spawn options (KeyValues and spawn flags)
 Dynamic support for all NPCs
