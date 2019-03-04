@@ -33,8 +33,3 @@ zinv_chaseplayers 1/0 - NPCs will try to move to the closest player.
 zinv_maxspawn 0-300 - Max NPCs
 
 To enable the console, go options>keyboard>advanced>enable developer console, then press the "~" key (the button above the tab key).
-
-Submitting feature requests/suggestions and bug reports
-Please do not use the comment section below to post important information like feature requests or bug reports. They're very annoying for us to work with.
-Instead we ask that you use the forum section to post your information.
-Forum threads let us maintain conversations with you so we can better understand what exactly you need/want.
