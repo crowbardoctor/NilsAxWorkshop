@@ -1,7 +1,7 @@
 This is a fixed and improved version of JASON's great addon, Zombie/NPC Invasion.
 
 The original addon IS NOT required! Please uninstall it to prevent any conflicts.
-£
+
 # Summary
 This addon will constantly spawn random NPCs within a certain distance of any player. 
 As of now no other addons/gamemodes do this without manually placing NPC spawners everywhere. 
