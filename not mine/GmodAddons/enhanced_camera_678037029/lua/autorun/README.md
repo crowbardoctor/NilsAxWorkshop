@@ -5,10 +5,10 @@ GitHub[github.com]
 ### What is it?
 Enhanced Camera, based off the Oblivion/Skyrim/Fallout mods of the same name, is an addon for Garry’s Mod that allows players to see their own bodies. The source code was originally based on Gmod Legs 3, but has been modified so extensively and the two now have little in common besides a similar goal. It can be considered in a beta state.
 
-Why not Gmod Legs/Immersive First-Person?
+### Why not Gmod Legs/Immersive First-Person?
 Gmod Legs, as the title suggests, only shows the player’s legs. It also requires a server-side component to work properly. Immersive First-Person is entirely client-side, but doesn’t use viewmodels, modifies the camera origin (and thus breaks aiming), and either requires a strict camera pitch restriction or suffers a lot of clipping. Enhanced Camera, like the Oblivion/Skyrim/Fallout mods of the same name, combines the viewmodel and worldmodel and does not modify the camera origin.
 
-What this addon can and cannot do
+### What this addon can and cannot do
 Enhanced Camera can:
 Work on the client-side, even on servers without the addon installed, as long as sv_allowcslua is enabled
 Dynamically change the player’s height to match their model if the serverside component is installed
