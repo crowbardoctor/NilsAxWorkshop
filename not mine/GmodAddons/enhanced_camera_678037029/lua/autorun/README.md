@@ -9,10 +9,10 @@ Enhanced Camera, based off the Oblivion/Skyrim/Fallout mods of the same name, is
 Gmod Legs, as the title suggests, only shows the player’s legs. It also requires a server-side component to work properly. Immersive First-Person is entirely client-side, but doesn’t use viewmodels, modifies the camera origin (and thus breaks aiming), and either requires a strict camera pitch restriction or suffers a lot of clipping. Enhanced Camera, like the Oblivion/Skyrim/Fallout mods of the same name, combines the viewmodel and worldmodel and does not modify the camera origin.
 
 ### What this addon can and cannot do
-Enhanced Camera can:
+### Enhanced Camera can:
 Work on the client-side, even on servers without the addon installed, as long as sv_allowcslua is enabled
 Dynamically change the player’s height to match their model if the serverside component is installed
-Enhanced Camera can not:
+### Enhanced Camera can not:
 Work 100% of the time if models have broken paths unless the optional serverside component is installed, though it works most of the time
 Show your PAC3 customizations (yet!)
 Show your shadow (you can use cl_drawownshadow if you want, but it won’t match your first person body or show your weapon’s shadow)
