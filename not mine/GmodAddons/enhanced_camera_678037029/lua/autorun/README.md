@@ -39,7 +39,7 @@ Forces a model reload. May be useful if the first-person model doesn’t update 
 Toggles the visibility of your body in first-person
 * cl_ec_togglevehicle
 Toggles the visibility of your body in first-person while in vehicles
-****Server-side
+**Server-side**
 * sv_ec_dynamicheight
 1 (Default): Dynamically adjust players’ view heights to match their models
 0: Don’t touch players’ heights
