@@ -13,9 +13,9 @@ Enhanced Camera can:
 * Work on the client-side, even on servers without the addon installed, as long as sv_allowcslua is enabled
 * Dynamically change the player’s height to match their model if the serverside component is installed
 Enhanced Camera can not:
-Work 100% of the time if models have broken paths unless the optional serverside component is installed, though it works most of the time
-Show your PAC3 customizations (yet!)
-Show your shadow (you can use cl_drawownshadow if you want, but it won’t match your first person body or show your weapon’s shadow)
+* Work 100% of the time if models have broken paths unless the optional serverside component is installed, though it works most of the time
+* Show your PAC3 customizations (yet!)
+* Show your shadow (you can use cl_drawownshadow if you want, but it won’t match your first person body or show your weapon’s shadow)
 
 Console Commands and cvars
 Client-side: All of these options can be configured in the Tools menu, Options tab.
