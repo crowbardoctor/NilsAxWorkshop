@@ -32,7 +32,7 @@ Bypassing by duping, won't work either. (Please report exploits if you find them
 It's nice if you want to build an effective prison for example.
 You can even protect these areas from the outside.
 
-ConVars and ConCommands:
+### ConVars and ConCommands:
 
 You can disable this tool for non-admins.
 The ConVar is: sv_anti_noclip_field_adminonly 0/1 (Default: 0)
@@ -49,13 +49,13 @@ The ConVar is: sv_anti_noclip_field_blocksuperadmin 0/1 (Default: 0)
 If the tool causes lags on the server you can increase the recheck time.
 The ConVar is: sv_anti_noclip_field_rechecktime 0.01-5 (Default: 0.25)
 
-Credits:
+### Credits:
 Code: Grocel
 
-SVN Version:
+### SVN Version:
 http://www.xp-dev.com/svn/G-A-P/anti-noclip_field
 
-Commenting:
+### Commenting:
 Fell free to posts bug reports, requests or feedback.
 
 However if you post bug reports, please include the error message and the steps to reproduce it. An undetailed report is invaild and can't be treated. If I ask for more information, please give them to me or the bug can't be fixed.
