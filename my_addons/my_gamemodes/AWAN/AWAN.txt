@@ -43,7 +43,7 @@
 			"name"		"mu_flashlight_battery"
 			"text"		"Max players"
 			"help"		"The maxiumum number of players"
-			"type"		"Numeric"
+			"type"		"CheckBox"
 			"default"	"1"
 		}
 
