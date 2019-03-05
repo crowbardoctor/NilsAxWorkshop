@@ -1,3 +1,5 @@
+DeriveGamemode( "sandbox" )
+
 GM.Name = "AWAN Arcade"
 GM.Author = "N/A"
 GM.Email = "N/A"
