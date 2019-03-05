@@ -1,6 +1,6 @@
 "AWAN"
 {
-	"base"		"base"
+	"base"		"sandbox"
 	"title"		"AWAN Killers"
 	"maps"		"^sk_"
 	"menusystem"	"1"
