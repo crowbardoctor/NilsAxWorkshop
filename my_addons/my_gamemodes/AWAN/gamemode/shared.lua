@@ -1,5 +1,7 @@
 DeriveGamemode( "sandbox" )
 
+include( "player_class/player_custom.lua" )
+
 GM.Name = "AWAN Arcade"
 GM.Author = "N/A"
 GM.Email = "N/A"
