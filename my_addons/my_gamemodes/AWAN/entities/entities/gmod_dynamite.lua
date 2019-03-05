@@ -4,6 +4,7 @@ DEFINE_BASECLASS( "base_gmodentity" )
 
 ENT.PrintName = "Dynamite"
 ENT.RenderGroup = RENDERGROUP_BOTH
+ENT.AdminOnly = true
 ENT.Editable = true
 
 function ENT:SetupDataTables()
