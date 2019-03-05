@@ -36,6 +36,16 @@
 			"type"		"Numeric"
 			"default"	"3"
 		}
+		
+
+		4
+		{
+			"name"		"mu_flashlight_battery"
+			"text"		"Max players"
+			"help"		"The maxiumum number of players"
+			"type"		"Numeric"
+			"default"	"1"
+		}
 
 	}
 
