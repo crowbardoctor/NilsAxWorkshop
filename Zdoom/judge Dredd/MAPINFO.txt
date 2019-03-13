@@ -1,1 +1,10 @@
-sample text
+clearepisodes
+
+episode MAP01
+{name = "Campaign"
+}
+
+map map02 "Peach Trees"
+{sky1 = SKY1, 0.0
+//music = D_MAP03
+}
