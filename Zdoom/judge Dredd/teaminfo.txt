@@ -1,24 +1,24 @@
 ClearTeams
 
-Team "Ultra Marine"
+Team "Judges"
 {
 	PlayerColor "00 00 FF"
 	TextColor "Blue"
 }
 
-Team "Blood Raven"
+Team "Red"
 {
 	PlayerColor "FF 00 00"
 	TextColor "Red"
 }
 
-Team "Black"
+Team "The judged"
 {
 	PlayerColor "00 00 00"
 	TextColor "Black"
 }
 
-Team "Deathwing"
+Team "MaMa Clan"
 {
 	PlayerColor "FF FF FF"
 	TextColor "White"
