@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/entities/re2_remake_lt_marvin_branagh_enemy"
-	"$nolod" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}
