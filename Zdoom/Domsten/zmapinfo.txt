@@ -7,4 +7,5 @@ episode ZMAP01
 map zmap01 "Domsten"
 {sky1 = SKY1, 0.0
 //music = D_MAP03
+next = "zmap02"
 }
