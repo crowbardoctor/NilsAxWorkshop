@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nils_custom/awan/motel_concretefloor"
+	"$surfaceprop" "Concrete"
+	"$translucent" 1
+}
