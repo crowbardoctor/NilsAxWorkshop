@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"				"models\player\lordvipes\h3_spartans_mps\mp_rogue"
+	"$bumpmap"					"models\player\lordvipes\h3_spartans_mps\mp_rogue_bump"
+	"$halflambert"				"1"
+
+	"$detail"					"models\player\lordvipes\h3_spartans_mps\detail"
+	"$detailscale"				"5"
+	"$detailblendfactor"		"0.65"
+	"$detailblendmode"			"0"
+
+	"$phong"					"1"
+	"$phongboost"				"4"
+	"$phongfresnelranges"		"[.5 .85 30]"
+	"$phongexponent"			"50"
+	"$PhongBrightnessScalar"	"0.5"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"4"
+	"$rimlightboost"			"0.125"
+
+	"$blendtintbybasealpha"		"1" 
+ 	"$blendtintcoloroverbase"	"0"
+	
+	"$blendtintbybasealpha"		"1" 
+ 	"$blendtintcoloroverbase"	"0"
+	
+}
