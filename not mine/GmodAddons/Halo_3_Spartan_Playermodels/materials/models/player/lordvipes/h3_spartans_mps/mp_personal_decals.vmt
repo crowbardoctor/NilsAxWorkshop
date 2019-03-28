@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\player\lordvipes\h3_spartans_mps\mp_personal_decals"
+	"$translucent"	"1"
+}

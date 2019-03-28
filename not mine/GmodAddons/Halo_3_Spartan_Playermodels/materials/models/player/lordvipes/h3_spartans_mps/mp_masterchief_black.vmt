@@ -1,0 +1,65 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"				"models\player\lordvipes\h3_spartans_mps\mp_masterchief"
+	"$bumpmap"					"models\player\lordvipes\h3_spartans_mps\mp_masterchief_bump"
+	"$halflambert"				"1"
+
+	"$detail"					"models\player\lordvipes\h3_spartans_mps\detail"
+	"$detailscale"				"5"
+	"$detailblendfactor"		"0.65"
+	"$detailblendmode"			"0"
+
+	"$phong"					"1"
+	"$phongboost"				"4"
+	"$phongfresnelranges"		"[.5 .85 30]"
+	"$phongexponent"			"50"
+	"$PhongBrightnessScalar"	"0.5"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"4"
+	"$rimlightboost"			"0.125"
+
+	"$blendtintbybasealpha"		"1" 
+ 	"$blendtintcoloroverbase"	"0"
+	
+	"Proxies"
+	{
+		"PlayerColor"
+		{
+			"resultVar"			"$color2"
+			"default"			"0.53 0.46 0.39"
+		}
+		"Clamp"
+		{
+			"min"				"0.01"
+			"max"				"1.25"
+			"srcVar1"			"$color2"
+			"resultVar"			"$color2"
+		}
+		"Clamp"
+		{
+			"min"				"0.5"
+			"max"				"1.0"
+			"srcVar1"			"$color2"
+			"resultVar"			"$phongtint"
+		}
+		"Equals"
+		{
+			"srcVar1"			"$color2"
+			"resultVar"			"$PhongBrightnessScalar"
+		}
+		"Multiply"
+		{
+			"srcVar1"			"$phongtint"
+			"srcVar2"			"$phongBrightnessScalar"
+			"resultVar"			"$phongtint"
+		}
+		"Clamp"
+		{
+			"min"				"0.25"
+			"max"				"1.00"
+			"srcVar1"			"$phongtint"
+			"resultVar"			"$phongtint"
+		}
+	}
+}

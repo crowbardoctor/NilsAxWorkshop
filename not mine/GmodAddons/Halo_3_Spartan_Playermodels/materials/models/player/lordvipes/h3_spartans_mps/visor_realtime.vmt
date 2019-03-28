@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"				"models\player\lordvipes\h3_spartans_mps\visor_realtime"
+	"$bumpmap"					"models\player\lordvipes\h3_spartans_mps\visor_realtime_bump"
+	"$color2"					"[1.25 1.25 1.25]"
+	"$halflambert"				"1"
+	"$envmap"					"env_cubemap"
+	"$envmaptint"				"[0.75 0.75 0.125]"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$blendtintbybasealpha"		"1"
+ 	"$blendtintcoloroverbase"	"0"
+	
+	"$phong"					"1"
+	"$phongboost"				"4"
+	"$phongexponent"			"50"
+	"$phongfresnelranges"		"[.5 .85 30]"
+	"$phongtint"				"[1 .85 .10]"
+
+}
