@@ -23,7 +23,7 @@ stealthmod = {enablehud = 1, luminocity = 0, alertdanger = 0}
 CreateClientConVar( "stealth_drawbar", 1) 
 CreateClientConVar( "stealth_enablefx", 1) 
 CreateClientConVar( "stealth_enablesound", 1) 
-CreateClientConVar( "stealth_enablemusic", 1) 
+CreateClientConVar( "stealth_enablemusic", 0) 
 -- CreateClientConVar( "stealth_enabledarkvision", 1)
 CreateClientConVar( "stealth_hudx", 29) 
 CreateClientConVar( "stealth_hudy", 220) 
