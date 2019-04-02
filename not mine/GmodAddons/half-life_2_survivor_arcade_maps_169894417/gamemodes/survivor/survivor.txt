@@ -1,0 +1,7 @@
+"survivor"
+{
+	"title"		"Half-Life 2: Survivor"
+    "maps"      "^battle_|^mission_"
+    "author"	"code_gs"
+    "menusystem"    "0"
+}
