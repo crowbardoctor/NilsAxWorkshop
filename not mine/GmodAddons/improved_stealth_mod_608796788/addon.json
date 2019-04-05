@@ -1,6 +1,6 @@
 {
-	"title"		:	"My Server Content",
-	"type"		:	"ServerContent",
+	"title"		:	"Improved stealth mod",
+	"type"		:	"Addon",
 	"tags"		:	[ "roleplay", "realism" ],
 	"ignore"	:
 	[
