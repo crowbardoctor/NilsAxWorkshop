@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6412"
-	"mapversion" "157"
+	"mapversion" "165"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "4"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "0"
-	"mapversion" "157"
+	"mapversion" "165"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -284,7 +284,7 @@ world
 		{
 			"id" "21"
 			"plane" "(-308 1228 608) (-1332 1228 608) (-1332 1100 608)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 -40] 0.5"
 			"rotation" "0"
@@ -360,7 +360,7 @@ world
 		{
 			"id" "33"
 			"plane" "(-308 268 340) (-372 268 340) (-372 -180 340)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "WOOD/WOODFLOOR006A"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 -40] 0.5"
 			"rotation" "0"
@@ -1576,7 +1576,7 @@ world
 		{
 			"id" "129"
 			"plane" "(140 1228 608) (-308 1228 608) (-308 1100 608)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 -40] 0.5"
 			"rotation" "0"
@@ -1705,7 +1705,7 @@ world
 		side
 		{
 			"id" "145"
-			"plane" "(-180 -4 0) (-180 -4 -64) (-180 76 -64)"
+			"plane" "(-180 -56 0) (-180 -56 -64) (-180 76 -64)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -1716,7 +1716,7 @@ world
 		side
 		{
 			"id" "146"
-			"plane" "(140 -4 -64) (-180 -4 -64) (-180 -4 0)"
+			"plane" "(140 -56 -64) (-180 -56 -64) (-180 -56 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -1727,7 +1727,7 @@ world
 		side
 		{
 			"id" "147"
-			"plane" "(140 76 -64) (-180 76 -64) (-180 -4 -64)"
+			"plane" "(140 76 -64) (-180 76 -64) (-180 -56 -64)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 -40] 0.5"
@@ -1738,7 +1738,7 @@ world
 		side
 		{
 			"id" "148"
-			"plane" "(140 -4 0) (-180 -4 0) (-180 76 0)"
+			"plane" "(140 -56 0) (-180 -56 0) (-180 76 0)"
 			"material" "STONE/STONEFLOOR011A"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 -40] 0.5"
@@ -1760,7 +1760,7 @@ world
 		side
 		{
 			"id" "150"
-			"plane" "(140 76 -64) (140 -4 -64) (140 -4 0)"
+			"plane" "(140 76 -64) (140 -56 -64) (140 -56 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -2233,82 +2233,6 @@ world
 	}
 	solid
 	{
-		"id" "34"
-		side
-		{
-			"id" "199"
-			"plane" "(-180 -52 0) (-180 -52 -64) (-180 -4 -64)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 40] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "200"
-			"plane" "(140 -52 -64) (-180 -52 -64) (-180 -52 0)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 40] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "201"
-			"plane" "(140 -4 -64) (-180 -4 -64) (-180 -52 -64)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 40] 0.5"
-			"vaxis" "[0 -1 0 -40] 0.5"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "202"
-			"plane" "(140 -52 0) (-180 -52 0) (-180 -4 0)"
-			"material" "STONE/STONEFLOOR011A"
-			"uaxis" "[1 0 0 40] 0.5"
-			"vaxis" "[0 -1 0 -40] 0.5"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "203"
-			"plane" "(-180 -4 0) (-180 -4 -64) (140 -4 -64)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 40] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "204"
-			"plane" "(140 -4 -64) (140 -52 -64) (140 -52 0)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 40] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 242 159"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
 		"id" "35"
 		side
 		{
@@ -2564,7 +2488,7 @@ world
 		{
 			"id" "225"
 			"plane" "(1484 1228 608) (140 1228 608) (140 1100 608)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSSKYBOX"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 -40] 0.5"
 			"rotation" "0"
@@ -4963,9 +4887,9 @@ world
 		{
 			"id" "438"
 			"plane" "(-308 268 339.692) (-308 -180 339.692) (-180 -180 339.692)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"material" "WOOD/WOODFLOOR006A"
+			"uaxis" "[1 0 0 0] 0.5"
+			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -5028,9 +4952,9 @@ world
 		{
 			"id" "444"
 			"plane" "(-500 268 339.692) (-500 -180 339.692) (-372 -180 339.692)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -48] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"material" "WOOD/WOODFLOOR006A"
+			"uaxis" "[1 0 0 -48] 0.5"
+			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -5549,7 +5473,7 @@ world
 		{
 			"id" "512"
 			"plane" "(256 204 300) (256 -180 300) (280 -180 300)"
-			"material" "CONCRETE/CONCRETEWALL013A"
+			"material" "WOOD/WOODFLOOR006A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -5560,7 +5484,7 @@ world
 		{
 			"id" "513"
 			"plane" "(256 -180 300) (256 204 300) (256 204 320)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "WOOD/WOODFLOOR006A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
@@ -5571,7 +5495,7 @@ world
 		{
 			"id" "514"
 			"plane" "(280 204 300) (280 -180 300) (280 -180 320)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "WOOD/WOODFLOOR006A"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
@@ -6135,7 +6059,7 @@ world
 		{
 			"id" "567"
 			"plane" "(140 -180 192) (140 -168 192) (256 -168 320)"
-			"material" "WOOD/WOODFLOOR006A"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -6796,7 +6720,7 @@ world
 		side
 		{
 			"id" "636"
-			"plane" "(-372 256 160) (-308 256 160) (-308 268 160)"
+			"plane" "(-372 256 128) (-308 256 128) (-308 268 128)"
 			"material" "CONCRETE/CONCRETEWALL013A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -6807,7 +6731,7 @@ world
 		side
 		{
 			"id" "637"
-			"plane" "(-372 268 340) (-372 256 340) (-372 256 160)"
+			"plane" "(-372 268 340) (-372 256 340) (-372 256 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6818,7 +6742,7 @@ world
 		side
 		{
 			"id" "638"
-			"plane" "(-308 268 160) (-308 256 160) (-308 256 340)"
+			"plane" "(-308 268 128) (-308 256 128) (-308 256 340)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6829,7 +6753,7 @@ world
 		side
 		{
 			"id" "639"
-			"plane" "(-308 268 340) (-372 268 340) (-372 268 160)"
+			"plane" "(-308 268 340) (-372 268 340) (-372 268 128)"
 			"material" "CONCRETE/CONCRETEWALL013A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -6840,7 +6764,7 @@ world
 		side
 		{
 			"id" "640"
-			"plane" "(-308 256 160) (-372 256 160) (-372 256 340)"
+			"plane" "(-308 256 128) (-372 256 128) (-372 256 340)"
 			"material" "CONCRETE/CONCRETEWALL013A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -7142,6 +7066,52 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "783"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "1"
+	"origin" "-24 272 1"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 5500]"
+	}
+}
+entity
+{
+	"id" "785"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "2"
+	"spawnflags" "0"
+	"origin" "-24 -208 1"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "799"
+	"classname" "info_node"
+	"nodeid" "3"
+	"spawnflags" "0"
+	"origin" "-24 32 1"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6500]"
 	}
 }
 cameras
