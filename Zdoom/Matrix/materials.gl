@@ -1,0 +1,13 @@
+material texture LOWALL {
+	normal normal/LOWALL.png
+	specular specular/LOWALL.png
+	specularlevel 0.3
+	glossiness 10
+}
+
+material texture AQCONC07 {
+	normal normal/aqconc07n.png
+	specular specular/AQCONC07s.png
+	specularlevel 0.3
+	glossiness 10
+}
