@@ -1,0 +1,30 @@
+===========================================================================
+Primary purpose         : No levels included
+===========================================================================
+Title                   : WhackEd2
+Filename                : whacked2.zip
+Release date            : Uploaded at 27th February 2005
+Author                  : Dennis 'Exl' Meuwissen
+Email Address           : dennis.meuwissen@home.nl
+
+Misc. Author Info       : DooM addict, yes.
+
+Description             : A Dehacked clone for Windows operating systems.
+                          Also supports editing BEX files.
+
+Additional Credits to   : CodeImp for some GFX and configuration code.
+                          All of you. Yes you.
+
+===========================================================================
+
+* Copyright / Permissions *
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ 
