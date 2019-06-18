@@ -1,0 +1,21 @@
+GameInfo
+{
+//	AddEventHandlers = "SpriteShadowHandler"
+
+}
+
+clearepisodes
+
+episode MAP01
+{name = "The Matrix"
+}
+
+episode REL01
+{name = "Matrix : Reloaded"
+}
+
+map MAP01 "Mission : X"
+{next = MAP02
+sky1 = Sky2 //0.02 // just an example :)
+//music xxxxxxxx
+}
