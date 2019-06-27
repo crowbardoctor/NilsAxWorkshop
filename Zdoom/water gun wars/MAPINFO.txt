@@ -1,0 +1,75 @@
+gameinfo
+{
+/*	titlepage = "TITLEPIC"
+	creditpage = "CREDIT"
+	titlemusic = "$MUSIC_DM2TTL"
+	titletime = 11
+	advisorytime = 0
+	pagetime = 5
+	chatsound = "misc/chat"
+	finalemusic = "$MUSIC_READ_M"
+	finaleflat = "SLIME16"
+	finalepage = "CREDIT"
+	infopage = "HELP", "CREDIT"
+	quitsound = "menu/quit"
+	border = DoomBorder
+	telefogheight = 0
+	defkickback = 100
+	skyflatname = "F_SKY1"
+	translator = "xlat/doom.txt"
+	mapinfo = "mapinfo/doom2.txt"
+	defaultbloodcolor = "68 00 00"
+	defaultbloodparticlecolor = "ff 00 00"
+	backpacktype = "Backpack"
+	statusbar = "sbarinfo/doom.txt"
+	intermissionmusic = "$MUSIC_DM2INT"
+*/
+	borderflat = "XMETAL25"
+	infopage = "HELP"
+}
+
+clearskills
+
+skill Easy
+{
+AmmoFactor = 1
+DamageFactor = 1
+aggressiveness = 0
+SpawnFilter = "Easy"
+PicName = "M_EASY"
+ACSreturn = 1
+Key = e
+}
+
+skill Medium
+{
+AmmoFactor = 1
+DamageFactor = 1
+aggressiveness = 0
+SpawnFilter = "Normal"
+PicName = "M_MED"
+ACSreturn = 2
+Key = m
+}
+
+skill Difficult
+{
+AmmoFactor = 1
+DamageFactor = 1
+aggressiveness = 0
+SpawnFilter = "Hard"
+PicName = "M_DIFF"
+ACSreturn = 3
+Key = d
+}
+
+map TITLEMAP "The Path to Perdition"
+{sky1 = HLSKY5, 0.0
+}
+
+map map01 "Bana 1"
+{
+sky1 = HLSKY1, 0.0
+music = DESSERTW
+fallingdamage
+}

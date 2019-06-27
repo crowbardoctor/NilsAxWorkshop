@@ -1,0 +1,130 @@
+ACTOR Shotgun2 : Weapon
+{
+  Weapon.SelectionOrder 1300
+  Weapon.AmmoUse 1
+  Weapon.AmmoGive 8
+  Weapon.AmmoType "RocketAmmo"
+  Inventory.PickupMessage "$GOTSHOTGUN"
+  Obituary "$OB_MPSHOTGUN"
+  Tag "$TAG_SHOTGUN"
+  States
+  {
+  Ready:
+    SHTG A 1 A_WeaponReady
+    Loop
+  Deselect:
+    SHTG A 1 A_Lower
+    Loop
+  Select:
+    SHTG A 1 A_Raise
+    Loop
+  Fire:
+    SHTG A 3
+    SHTG A 7 A_FireShotgun
+    SHTG BC 5
+    SHTG D 4
+    SHTG CB 5
+    SHTG A 3
+    SHTG A 7 A_ReFire
+    Goto Ready
+  Flash:
+    SHTF A 4 Bright A_Light1
+    SHTF B 3 Bright A_Light2
+    Goto LightDone
+  Spawn:
+    SHOT A -1
+    Stop
+  }
+}
+
+ACTOR WaterLauncher : Weapon
+{
+  Weapon.SelectionOrder 2500
+  Weapon.AmmoUse 1
+  Weapon.AmmoGive 4
+  Weapon.AmmoType "RocketAmmo"
+  +WEAPON.NOAUTOFIRE
+  Inventory.PickupMessage "$GOTLAUNCHER"
+  Tag "$TAG_ROCKETLAUNCHER"
+  States
+  {
+  Ready:
+    SHTG A 1 A_WeaponReady
+    Loop
+  Deselect:
+    SHTG A 1 A_Lower
+    Loop
+  Select:
+    SHTG A 1 A_Raise
+    Loop
+  Fire:
+    SHTG A 3
+	SHTG A 7 A_FireMissile
+	SHTG BC 5 A_GunFlash
+    SHTG B 0 A_ReFire
+    Goto Ready
+  Flash:
+    MISF A 3 Bright A_Light1
+    MISF B 4 Bright
+    MISF CD 4 Bright A_Light2
+    Goto LightDone
+  Spawn:
+    LAUN A -1
+    Stop
+  }
+}
+
+ACTOR SolarPlayer : DoomPlayer
+{
+   Player.StartItem "_Pistol"
+   Player.StartItem "_Fist"
+   Player.StartItem "Clip", 50
+   Player.WeaponSlot 1, _Fist, _Chainsaw
+   Player.WeaponSlot 2, _Pistol
+   Player.WeaponSlot 3, _Shotgun, _SuperShotgun, _WaterLauncher
+   Player.WeaponSlot 4, _Chaingun
+   Player.WeaponSlot 5, _RocketLauncher
+   Player.WeaponSlot 6, _PlasmaRifle
+   Player.WeaponSlot 7, _BFG9000
+}
+
+
+ACTOR Rocket2 : Rocket replaces Rocket
+{
+  Radius 11
+  Height 8
+  Speed 40
+  Damage 20
+  Projectile
+  +RANDOMIZE
+  +ROCKETTRAIL
+  SeeSound "weapons/rocklf"
+  DeathSound "weapons/rocklx"
+  Obituary "$OB_MPROCKET" // "%o rode %k's rocket."
+  States
+  {
+  Spawn:
+    MISL A 1 Bright
+    Loop
+  Death:
+    MISL B 8 Bright A_Explode
+    MISL C 6 Bright
+    MISL D 4 Bright
+    Stop
+  }
+}
+
+Actor Chair 260
+{
+ //$Category Decorations
+  +FloorClip
+  +Solid
+  Height 30
+  Radius 15
+  States
+  {
+  Spawn:
+    CHAI A -1
+    Stop
+  }
+}
