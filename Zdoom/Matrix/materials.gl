@@ -1,5 +1,5 @@
 material texture LOWALL {
-	normal normal/LOWALL.png
+	normal normal/lowall.png
 	specular specular/LOWALL.png
 	specularlevel 0.3
 	glossiness 10
