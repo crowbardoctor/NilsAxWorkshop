@@ -1,0 +1,87 @@
+#library "BIKECONTROL"
+#include "zcommon.acs"
+
+
+script 522 OPEN
+{
+ConsoleCommand("compat_clientssendfullbuttoninfo 1");
+}
+
+
+//FORWARD
+script 421 ENTER
+{
+ int buttons;
+
+ while (TRUE)
+ {
+   buttons = GetPlayerInput(-1, INPUT_BUTTONS);
+   
+if (buttons & BT_FORWARD)
+{
+   GiveInventory("Accelerate", 1);
+}
+   delay(1);
+ }
+}
+
+
+//BACKPEDAL
+script 422 ENTER
+{
+ int buttons;
+
+ while (TRUE)
+ {
+   buttons = GetPlayerInput(-1, INPUT_BUTTONS);
+   
+if (buttons & BT_BACK)
+{
+    GiveInventory("BackPedal", 1);
+	delay(2);
+	TakeInventory("BackPedal", 1);
+}
+
+   delay(2);
+   TakeInventory("BackPedal", 1);
+ }
+}
+
+
+//LEFT
+script 423 ENTER
+{
+ int buttons;
+
+ while (TRUE)
+ {
+   buttons = GetPlayerInput(-1, INPUT_BUTTONS);
+   
+if (buttons & BT_MOVELEFT)
+{
+    GiveInventory("TurnLeft", 1);
+}
+
+   delay(1);
+ }
+}
+
+
+
+//RIGHT
+script 424 ENTER
+{
+ int buttons;
+
+ while (TRUE)
+ {
+   buttons = GetPlayerInput(-1, INPUT_BUTTONS);
+   
+if (buttons & BT_MOVERIGHT)
+{
+    GiveInventory("TurnRight", 1);
+}
+
+   delay(1);
+ }
+}
