@@ -5,19 +5,16 @@ Team "Ultra Marine"
 	PlayerColor "00 00 FF"
 	TextColor "Blue"
 }
-
 Team "Blood Raven"
 {
 	PlayerColor "FF 00 00"
 	TextColor "Red"
 }
-
 Team "Black"
 {
 	PlayerColor "00 00 00"
 	TextColor "Black"
 }
-
 Team "Deathwing"
 {
 	PlayerColor "FF FF FF"

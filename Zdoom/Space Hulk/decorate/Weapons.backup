@@ -1,0 +1,70 @@
+ACTOR Chainsword : Weapon	326
+{
+  Weapon.Kickback 0
+  Weapon.SelectionOrder 2200
+  Weapon.UpSound "weapons/sawup"
+  Weapon.ReadySound "weapons/sawidle"
+  Inventory.PickupMessage "$GOTCHAINSAW"
+  Obituary "$OB_MPCHAINSAW"
+  Tag "Chain Sword"
+  +WEAPON.MELEEWEAPON
+  States
+  {
+  Ready:
+    SAWG CD 4 A_WeaponReady
+    Loop
+  Deselect:
+    SAWG C 1 A_Lower
+    Loop
+  Select:
+    SAWG C 1 A_Raise
+    Loop
+  Fire:
+    SAWG AB 4 A_Saw
+    SAWG B 0 A_ReFire
+    Goto Ready
+  Spawn:
+    CSAW A -1
+    Stop
+  }
+}
+ACTOR StormBolter : Weapon 327
+{
+   Weapon.SelectionOrder 700
+   Weapon.AmmoUse 1
+   Weapon.AmmoGive 20
+   Weapon.AmmoType "Clip"
+   Inventory.PickupMessage "$GOTCHAINGUN" // "You got the chaingun"
+   Obituary "$OB_MPCHAINGUN" // "%o was mowed down by %k's chaingun."
+   Tag "$TAG_CHAINGUN"
+   States
+   {
+   Ready:
+     CHGG A 1 A_WeaponReady
+     Loop
+   Deselect:
+     CHGG A 1 A_Lower
+     Loop
+   Select:
+     CHGG A 1 A_Raise
+     Loop
+   Fire:
+     CHGG A 0 A_PlaySound("weapons/chngun", CHAN_WEAPON)
+     CHGG A 0 A_GunFlash
+     CHGG A 4 A_FireBullets(8, 2, 1, 5, "BulletPuff")
+     CHGG B 0 A_PlaySound("weapons/chngun", CHAN_WEAPON)
+     CHGG B 0 A_GunFlash("Flash2")
+     CHGG B 4 A_FireBullets(5.6, 0, 1, 5, "BulletPuff")
+     CHGG B 0 A_ReFire
+     Goto Ready
+  Flash:
+     CHGF A 4 Bright A_Light1
+     Goto LightDone
+  Flash2:
+     CHGF B 4 Bright A_Light2
+     Goto LightDone
+   Spawn:
+     MGUN A -1
+     Stop
+   }
+}

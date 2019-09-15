@@ -1,20 +1,11 @@
 Actor TermDoomPlayer: DoomPlayer replaces DoomPlayer
 {
-Height 64
+//Height 76
 Player.DisplayName "Terminator"
-Player.WeaponSlot 1, "Fist", "Chain Sword"
-Player.WeaponSlot 2, "Shotgun", "UZI"
+Player.WeaponSlot 1, "Fist"
+Player.WeaponSlot 2, "Shotgun", "UZI", "StormBolter"
 Player.WeaponSlot 3, "FlareGun"
 Player.StartItem "Fist", 1
 Player.StartItem "Pistol", 1
 Player.StartItem "Clip", 50
-
-}
-
-actor TermAssultPlayer : DoomPlayer 327
-{
- Player.DisplayName "Assult Cannon"
- Player.WeaponSlot 1, "Fist", "Chain Sword"
- Player.WeaponSlot 2, "Chaingun"
- Player.StartItem "Chaingun"
 }
