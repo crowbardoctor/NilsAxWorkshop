@@ -1,0 +1,10 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.2.0 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+[STRINGS]
+HUSTR_1 = level 1: wasteland
