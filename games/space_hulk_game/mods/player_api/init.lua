@@ -1,5 +1,7 @@
 dofile(minetest.get_modpath("player_api") .. "/api.lua")
 
+local sf = 0.5
+
 -- Default player appearance
 player_api.register_model("character.b3d", {
 	animation_speed = 30,
@@ -13,7 +15,8 @@ player_api.register_model("character.b3d", {
 		walk_mine = {x = 200, y = 219},
 		sit       = {x = 81,  y = 160},
 	},
-	collisionbox = {-0.6, 0.0, -0.6, 0.15, 0.85, 0.15},
+	collisionbox = {-0.3*sf, 0.0, -0.3*sf, 0.3*sf, 1.7*sf, 0.3*sf},
+	--stepheight = 0.6*sf,
 	stepheight = 0.3,
 	eye_height = 0.735,
 })
