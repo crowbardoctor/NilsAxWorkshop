@@ -2,14 +2,10 @@
 -- Node Box Editor, version 0.9.0
 -- Namespace: test
 
-minetest.register_node("test:node_1", {
+minetest.register_node("traps:node_1", {
+description = "1x2 stone trap",
 	tiles = {
-		"default_wood.png",
-		"default_wood.png",
-		"default_wood.png",
-		"default_wood.png",
-		"default_wood.png",
-		"default_wood.png"
+		"default_stone.png"
 	},
 	drawtype = "nodebox",
 	paramtype = "light",
