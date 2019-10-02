@@ -8,6 +8,7 @@ description = "1x2 stone trap",
 		"default_stone.png"
 	},
 	drawtype = "nodebox",
+	groups = {cracky = 2},
 	paramtype = "light",
 	node_box = {
 		type = "fixed",
