@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8423"
-	"mapversion" "1383"
+	"mapversion" "1382"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "892"
-	"mapversion" "1383"
+	"mapversion" "1382"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -16141,7 +16141,7 @@ world
 		side
 		{
 			"id" "3570"
-			"plane" "(396 -128 128) (396 -128 -88) (398 -126 -88)"
+			"plane" "(396 -128 320) (396 -128 -88) (398 -126 -88)"
 			"material" "WOOD/WOODFLOOR007A_C17"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -16152,7 +16152,7 @@ world
 		side
 		{
 			"id" "3571"
-			"plane" "(400 -128 -88) (396 -128 -88) (396 -128 128)"
+			"plane" "(400 -128 -88) (396 -128 -88) (396 -128 320)"
 			"material" "GM_CONSTRUCT/WALL_TOP"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -16174,7 +16174,7 @@ world
 		side
 		{
 			"id" "3573"
-			"plane" "(400 -128 128) (396 -128 128) (398 -126 128)"
+			"plane" "(400 -128 320) (396 -128 320) (398 -126 320)"
 			"material" "WOOD/WOODFLOOR007A_C17"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
@@ -16185,7 +16185,7 @@ world
 		side
 		{
 			"id" "3574"
-			"plane" "(398 -126 128) (398 -126 -88) (400 -128 -88)"
+			"plane" "(398 -126 320) (398 -126 -88) (400 -128 -88)"
 			"material" "WOOD/WOODFLOOR007A_C17"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -24989,7 +24989,7 @@ world
 		side
 		{
 			"id" "4930"
-			"plane" "(388 -128 128) (388 -128 -88) (388 -120 -88)"
+			"plane" "(388 -128 -88) (388 -120 -88) (388 -120 320)"
 			"material" "GM_CONSTRUCT/WALL_TOP"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -25000,7 +25000,7 @@ world
 		side
 		{
 			"id" "4929"
-			"plane" "(396 -128 -88) (388 -128 -88) (388 -128 128)"
+			"plane" "(388 -128 -88) (388 -128 320) (396 -128 320)"
 			"material" "GM_CONSTRUCT/WALL_TOP"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -25011,7 +25011,7 @@ world
 		side
 		{
 			"id" "4928"
-			"plane" "(396 -120 -88) (388 -120 -88) (388 -128 -88)"
+			"plane" "(388 -128 -88) (396 -128 -88) (396 -120 -88)"
 			"material" "WOOD/WOODFLOOR007A_C17"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
@@ -25022,7 +25022,7 @@ world
 		side
 		{
 			"id" "4927"
-			"plane" "(396 -128 128) (388 -128 128) (388 -120 128)"
+			"plane" "(388 -128 320) (388 -120 320) (396 -120 320)"
 			"material" "WOOD/WOODFLOOR007A_C17"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
@@ -25033,7 +25033,7 @@ world
 		side
 		{
 			"id" "4926"
-			"plane" "(388 -120 128) (388 -120 -88) (396 -120 -88)"
+			"plane" "(388 -120 -88) (396 -120 -88) (396 -120 320)"
 			"material" "WOOD/WOODFLOOR007A_C17"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -25044,7 +25044,7 @@ world
 		side
 		{
 			"id" "4925"
-			"plane" "(396 -120 -88) (396 -128 -88) (396 -128 128)"
+			"plane" "(396 -128 -88) (396 -128 320) (396 -120 320)"
 			"material" "WOOD/WOODFLOOR007A_C17"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"

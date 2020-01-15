@@ -1,0 +1,2327 @@
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1294.84 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42977 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 155 texinfos to 105
+Reduced 17 texdatas to 13 (464 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+919 faces
+2 degenerate faces
+516757 square feet [74413104.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 684/65536       13680/1310720  ( 1.0%) 
+vertexes              1148/65536       13776/786432   ( 1.8%) 
+nodes                  465/65536       14880/2097152  ( 0.7%) 
+texinfos               105/12288        7560/884736   ( 0.9%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              354/65536       19824/3670016  ( 0.5%) 
+leaves                 467/65536       14944/2097152  ( 0.7%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            297/65536         594/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5705/512000      22820/2048000  ( 1.1%) 
+edges                 3135/256000      12540/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           711/65536        1422/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      358656/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1195/393216   ( 0.3%) 
+LDR ambient table      467/65536        1868/262144   ( 0.7%) 
+HDR ambient table      467/65536        1868/262144   ( 0.7%) 
+LDR leaf ambient      2885/65536       80780/1835008  ( 4.4%) 
+HDR leaf ambient       467/65536       13076/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50661/0        ( 0.0%) 
+physics               [variable]       42977/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2427
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1294.84 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42977 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 155 texinfos to 105
+Reduced 17 texdatas to 13 (464 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+919 faces
+2 degenerate faces
+516757 square feet [74413104.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 684/65536       13680/1310720  ( 1.0%) 
+vertexes              1148/65536       13776/786432   ( 1.8%) 
+nodes                  465/65536       14880/2097152  ( 0.7%) 
+texinfos               105/12288        7560/884736   ( 0.9%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              354/65536       19824/3670016  ( 0.5%) 
+leaves                 467/65536       14944/2097152  ( 0.7%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            297/65536         594/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5705/512000      22820/2048000  ( 1.1%) 
+edges                 3135/256000      12540/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           711/65536        1422/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      358656/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1399/393216   ( 0.4%) 
+LDR ambient table      467/65536        1868/262144   ( 0.7%) 
+HDR ambient table      467/65536        1868/262144   ( 0.7%) 
+LDR leaf ambient      2885/65536       80780/1835008  ( 4.4%) 
+HDR leaf ambient       467/65536       13076/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50661/0        ( 0.0%) 
+physics               [variable]       42977/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2427
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1294.84 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42977 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 155 texinfos to 105
+Reduced 17 texdatas to 13 (464 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+919 faces
+2 degenerate faces
+516757 square feet [74413104.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 684/65536       13680/1310720  ( 1.0%) 
+vertexes              1148/65536       13776/786432   ( 1.8%) 
+nodes                  465/65536       14880/2097152  ( 0.7%) 
+texinfos               105/12288        7560/884736   ( 0.9%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              354/65536       19824/3670016  ( 0.5%) 
+leaves                 467/65536       14944/2097152  ( 0.7%) 
+leaffaces              981/65536        1962/131072   ( 1.5%) 
+leafbrushes            297/65536         594/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5705/512000      22820/2048000  ( 1.1%) 
+edges                 3135/256000      12540/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           711/65536        1422/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      358656/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1399/393216   ( 0.4%) 
+LDR ambient table      467/65536        1868/262144   ( 0.7%) 
+HDR ambient table      467/65536        1868/262144   ( 0.7%) 
+LDR leaf ambient      2885/65536       80780/1835008  ( 4.4%) 
+HDR leaf ambient       467/65536       13076/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50661/0        ( 0.0%) 
+physics               [variable]       42977/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2427
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1294.84 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42341 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 152 texinfos to 101
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+916 faces
+3 degenerate faces
+515278 square feet [74200136.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 684/65536       13680/1310720  ( 1.0%) 
+vertexes              1174/65536       14088/786432   ( 1.8%) 
+nodes                  495/65536       15840/2097152  ( 0.8%) 
+texinfos               101/12288        7272/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  916/65536       51296/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              349/65536       19544/3670016  ( 0.5%) 
+leaves                 497/65536       15904/2097152  ( 0.8%) 
+leaffaces              986/65536        1972/131072   ( 1.5%) 
+leafbrushes            302/65536         604/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5680/512000      22720/2048000  ( 1.1%) 
+edges                 3119/256000      12476/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      357636/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1399/393216   ( 0.4%) 
+LDR ambient table      497/65536        1988/262144   ( 0.8%) 
+HDR ambient table      497/65536        1988/262144   ( 0.8%) 
+LDR leaf ambient      3144/65536       88032/1835008  ( 4.8%) 
+HDR leaf ambient       497/65536       13916/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       42341/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2428
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1312.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 152 texinfos to 98
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+896 faces
+2 degenerate faces
+515123 square feet [74177848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 690/65536       13800/1310720  ( 1.1%) 
+vertexes              1158/65536       13896/786432   ( 1.8%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  896/65536       50176/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              342/65536       19152/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              946/65536        1892/131072   ( 1.4%) 
+leafbrushes            294/65536         588/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5577/512000      22308/2048000  ( 1.1%) 
+edges                 3068/256000      12272/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      356576/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1294/393216   ( 0.3%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      3085/65536       86380/1835008  ( 4.7%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       41949/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1312.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 152 texinfos to 98
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+896 faces
+2 degenerate faces
+515123 square feet [74177848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 690/65536       13800/1310720  ( 1.1%) 
+vertexes              1158/65536       13896/786432   ( 1.8%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  896/65536       50176/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              342/65536       19152/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              946/65536        1892/131072   ( 1.4%) 
+leafbrushes            294/65536         588/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5577/512000      22308/2048000  ( 1.1%) 
+edges                 3068/256000      12272/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      356576/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1496/393216   ( 0.4%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      3085/65536       86380/1835008  ( 4.7%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       41949/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1312.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 152 texinfos to 98
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+896 faces
+2 degenerate faces
+515123 square feet [74177848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 690/65536       13800/1310720  ( 1.1%) 
+vertexes              1158/65536       13896/786432   ( 1.8%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  896/65536       50176/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              342/65536       19152/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              946/65536        1892/131072   ( 1.4%) 
+leafbrushes            294/65536         588/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5577/512000      22308/2048000  ( 1.1%) 
+edges                 3068/256000      12272/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      356576/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1490/393216   ( 0.4%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      3085/65536       86380/1835008  ( 4.7%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       41949/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1312.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 152 texinfos to 98
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+896 faces
+2 degenerate faces
+515123 square feet [74177848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 690/65536       13800/1310720  ( 1.1%) 
+vertexes              1158/65536       13896/786432   ( 1.8%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  896/65536       50176/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              342/65536       19152/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              946/65536        1892/131072   ( 1.4%) 
+leafbrushes            294/65536         588/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5577/512000      22308/2048000  ( 1.1%) 
+edges                 3068/256000      12272/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      356576/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1592/393216   ( 0.4%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      3085/65536       86380/1835008  ( 4.7%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       41949/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1312.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 152 texinfos to 98
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+896 faces
+2 degenerate faces
+515123 square feet [74177848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 690/65536       13800/1310720  ( 1.1%) 
+vertexes              1158/65536       13896/786432   ( 1.8%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  896/65536       50176/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              342/65536       19152/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              946/65536        1892/131072   ( 1.4%) 
+leafbrushes            294/65536         588/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5577/512000      22308/2048000  ( 1.1%) 
+edges                 3068/256000      12272/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      356576/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1609/393216   ( 0.4%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      3085/65536       86380/1835008  ( 4.7%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       41949/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1312.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 155 texinfos to 101
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+896 faces
+2 degenerate faces
+515123 square feet [74177848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 690/65536       13800/1310720  ( 1.1%) 
+vertexes              1158/65536       13896/786432   ( 1.8%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos               101/12288        7272/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  896/65536       50176/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              342/65536       19152/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              946/65536        1892/131072   ( 1.4%) 
+leafbrushes            294/65536         588/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5577/512000      22308/2048000  ( 1.1%) 
+edges                 3068/256000      12272/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      359448/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1609/393216   ( 0.4%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      3103/65536       86884/1835008  ( 4.7%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       41949/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-288.00 -1312.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 155 texinfos to 101
+Reduced 16 texdatas to 13 (411 bytes to 277)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+896 faces
+2 degenerate faces
+515123 square feet [74177848.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 690/65536       13800/1310720  ( 1.1%) 
+vertexes              1158/65536       13896/786432   ( 1.8%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos               101/12288        7272/884736   ( 0.8%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  896/65536       50176/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              342/65536       19152/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              946/65536        1892/131072   ( 1.4%) 
+leafbrushes            294/65536         588/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5577/512000      22308/2048000  ( 1.1%) 
+edges                 3068/256000      12272/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             47/32768         470/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           735/65536        1470/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      362964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1609/393216   ( 0.4%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      3107/65536       86996/1835008  ( 4.7%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/488      ( 0.2%) 
+pakfile               [variable]       50343/0        ( 0.0%) 
+physics               [variable]       41949/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2399
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-562.77 -1426.17 657.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42049 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 160 texinfos to 107
+Reduced 18 texdatas to 14 (493 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+914 faces
+2 degenerate faces
+514843 square feet [74137400.00 square inches]
+1 Displacements
+228 Square Feet [32867.85 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0032 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 694/65536       13880/1310720  ( 1.1%) 
+vertexes              1180/65536       14160/786432   ( 1.8%) 
+nodes                  492/65536       15744/2097152  ( 0.8%) 
+texinfos               107/12288        7704/884736   ( 0.9%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_lmsamples         720/0             720/0        ( 0.0%) 
+faces                  914/65536       51184/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              349/65536       19544/3670016  ( 0.5%) 
+leaves                 494/65536       15808/2097152  ( 0.8%) 
+leaffaces              970/65536        1940/131072   ( 1.5%) 
+leafbrushes            295/65536         590/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5687/512000      22748/2048000  ( 1.1%) 
+edges                 3131/256000      12524/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             52/32768         520/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           792/65536        1584/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      356744/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1609/393216   ( 0.4%) 
+LDR ambient table      494/65536        1976/262144   ( 0.8%) 
+HDR ambient table      494/65536        1976/262144   ( 0.8%) 
+LDR leaf ambient      3114/65536       87192/1835008  ( 4.8%) 
+HDR leaf ambient       494/65536       13832/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/684      ( 0.1%) 
+pakfile               [variable]       50737/0        ( 0.0%) 
+physics               [variable]       42049/4194304  ( 1.0%) 
+physics terrain       [variable]          69/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2445
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+914 faces
+2 degenerate faces
+514843 square feet [74137400.00 square inches]
+1 Displacements
+228 Square Feet [32867.85 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                115/16384        1380/196608   ( 0.7%) 
+brushsides             917/65536        7336/524288   ( 1.4%) 
+planes                 694/65536       13880/1310720  ( 1.1%) 
+vertexes              1180/65536       14160/786432   ( 1.8%) 
+nodes                  492/65536       15744/2097152  ( 0.8%) 
+texinfos               107/12288        7704/884736   ( 0.9%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_lmsamples         720/0             720/0        ( 0.0%) 
+faces                  914/65536       51184/3670016  ( 1.4%) 
+hdr faces              914/65536       51184/3670016  ( 1.4%) 
+origfaces              349/65536       19544/3670016  ( 0.5%) 
+leaves                 494/65536       15808/2097152  ( 0.8%) 
+leaffaces              970/65536        1940/131072   ( 1.5%) 
+leafbrushes            295/65536         590/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5687/512000      22748/2048000  ( 1.1%) 
+edges                 3131/256000      12524/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             52/32768         520/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           792/65536        1584/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      356744/0        ( 0.0%) 
+HDR lightdata         [variable]      356744/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1609/393216   ( 0.4%) 
+LDR ambient table      494/65536        1976/262144   ( 0.8%) 
+HDR ambient table      494/65536        1976/262144   ( 0.8%) 
+LDR leaf ambient      3114/65536       87192/1835008  ( 4.8%) 
+HDR leaf ambient      3114/65536       87192/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/684      ( 0.1%) 
+pakfile               [variable]       50737/0        ( 0.0%) 
+physics               [variable]       42049/4194304  ( 1.0%) 
+physics terrain       [variable]          69/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2445
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-562.77 -1426.17 657.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42049 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 160 texinfos to 107
+Reduced 18 texdatas to 14 (493 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-562.77 -1426.17 657.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44809 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 163 texinfos to 104
+Reduced 17 texdatas to 14 (442 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44953 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 163 texinfos to 102
+Reduced 17 texdatas to 14 (442 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44953 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 163 texinfos to 102
+Reduced 17 texdatas to 14 (442 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44953 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 163 texinfos to 102
+Reduced 17 texdatas to 14 (442 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+ 104 portalclusters
+ 302 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.01%)
+Total clusters visible: 9773
+Average clusters visible: 93
+Building PAS...
+Average clusters audible: 104
+visdatasize:3525  compressed from 3328
+writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+521 faces
+256945 square feet [37000208.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+521 patches before subdivision
+8593 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 410675, max 359
+transfer lists:   3.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2146, 2192, 1788)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(78, 85, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                124/16384        1488/196608   ( 0.8%) 
+brushsides            1005/65536        8040/524288   ( 1.5%) 
+planes                 708/65536       14160/1310720  ( 1.1%) 
+vertexes               693/65536        8316/786432   ( 1.1%) 
+nodes                  241/65536        7712/2097152  ( 0.4%) 
+texinfos               102/12288        7344/884736   ( 0.8%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  521/65536       29176/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              251/65536       14056/3670016  ( 0.4%) 
+leaves                 243/65536        7776/2097152  ( 0.4%) 
+leaffaces              576/65536        1152/131072   ( 0.9%) 
+leafbrushes            276/65536         552/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3439/512000      13756/2048000  ( 0.7%) 
+edges                 1912/256000       7648/1024000  ( 0.7%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             40/32768         400/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           618/65536        1236/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      210356/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3525/16777216 ( 0.0%) 
+entdata               [variable]        1644/393216   ( 0.4%) 
+LDR ambient table      243/65536         972/262144   ( 0.4%) 
+HDR ambient table      243/65536         972/262144   ( 0.4%) 
+LDR leaf ambient      1155/65536       32340/1835008  ( 1.8%) 
+HDR leaf ambient       243/65536        6804/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/674      ( 0.1%) 
+pakfile               [variable]       25587/0        ( 0.0%) 
+physics               [variable]       44953/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1398
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+521 faces
+256945 square feet [37000208.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+521 patches before subdivision
+8593 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 410675, max 359
+transfer lists:   3.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2146, 2192, 1788)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(78, 85, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                124/16384        1488/196608   ( 0.8%) 
+brushsides            1005/65536        8040/524288   ( 1.5%) 
+planes                 708/65536       14160/1310720  ( 1.1%) 
+vertexes               693/65536        8316/786432   ( 1.1%) 
+nodes                  241/65536        7712/2097152  ( 0.4%) 
+texinfos               102/12288        7344/884736   ( 0.8%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  521/65536       29176/3670016  ( 0.8%) 
+hdr faces              521/65536       29176/3670016  ( 0.8%) 
+origfaces              251/65536       14056/3670016  ( 0.4%) 
+leaves                 243/65536        7776/2097152  ( 0.4%) 
+leaffaces              576/65536        1152/131072   ( 0.9%) 
+leafbrushes            276/65536         552/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3439/512000      13756/2048000  ( 0.7%) 
+edges                 1912/256000       7648/1024000  ( 0.7%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             40/32768         400/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           618/65536        1236/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      210356/0        ( 0.0%) 
+HDR lightdata         [variable]      210356/0        ( 0.0%) 
+visdata               [variable]        3525/16777216 ( 0.0%) 
+entdata               [variable]        1644/393216   ( 0.4%) 
+LDR ambient table      243/65536         972/262144   ( 0.4%) 
+HDR ambient table      243/65536         972/262144   ( 0.4%) 
+LDR leaf ambient      1155/65536       32340/1835008  ( 1.8%) 
+HDR leaf ambient      1155/65536       32340/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/674      ( 0.1%) 
+pakfile               [variable]       25587/0        ( 0.0%) 
+physics               [variable]       44953/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1398
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44673 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 163 texinfos to 104
+Reduced 17 texdatas to 14 (442 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+ 105 portalclusters
+ 303 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.01%)
+Total clusters visible: 9896
+Average clusters visible: 94
+Building PAS...
+Average clusters audible: 105
+visdatasize:3776  compressed from 3360
+writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+525 faces
+256803 square feet [36979732.00 square inches]
+1 Displacements
+227 Square Feet [32768.00 Square Inches]
+525 patches before subdivision
+8623 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 407447, max 358
+transfer lists:   3.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2136, 2181, 1778)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(78, 85, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                123/16384        1476/196608   ( 0.8%) 
+brushsides             999/65536        7992/524288   ( 1.5%) 
+planes                 708/65536       14160/1310720  ( 1.1%) 
+vertexes               698/65536        8376/786432   ( 1.1%) 
+nodes                  247/65536        7904/2097152  ( 0.4%) 
+texinfos               104/12288        7488/884736   ( 0.8%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_lmsamples         720/0             720/0        ( 0.0%) 
+faces                  525/65536       29400/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              256/65536       14336/3670016  ( 0.4%) 
+leaves                 249/65536        7968/2097152  ( 0.4%) 
+leaffaces              577/65536        1154/131072   ( 0.9%) 
+leafbrushes            293/65536         586/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3475/512000      13900/2048000  ( 0.7%) 
+edges                 1937/256000       7748/1024000  ( 0.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             40/32768         400/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           615/65536        1230/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      210356/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3776/16777216 ( 0.0%) 
+entdata               [variable]        1644/393216   ( 0.4%) 
+LDR ambient table      249/65536         996/262144   ( 0.4%) 
+HDR ambient table      249/65536         996/262144   ( 0.4%) 
+LDR leaf ambient      1166/65536       32648/1835008  ( 1.8%) 
+HDR leaf ambient       249/65536        6972/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/674      ( 0.1%) 
+pakfile               [variable]       25587/0        ( 0.0%) 
+physics               [variable]       44673/4194304  ( 1.1%) 
+physics terrain       [variable]          69/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1406
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+525 faces
+256803 square feet [36979732.00 square inches]
+1 Displacements
+227 Square Feet [32768.00 Square Inches]
+525 patches before subdivision
+8623 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 407447, max 358
+transfer lists:   3.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2136, 2181, 1778)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(78, 85, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                123/16384        1476/196608   ( 0.8%) 
+brushsides             999/65536        7992/524288   ( 1.5%) 
+planes                 708/65536       14160/1310720  ( 1.1%) 
+vertexes               698/65536        8376/786432   ( 1.1%) 
+nodes                  247/65536        7904/2097152  ( 0.4%) 
+texinfos               104/12288        7488/884736   ( 0.8%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_lmsamples         720/0             720/0        ( 0.0%) 
+faces                  525/65536       29400/3670016  ( 0.8%) 
+hdr faces              525/65536       29400/3670016  ( 0.8%) 
+origfaces              256/65536       14336/3670016  ( 0.4%) 
+leaves                 249/65536        7968/2097152  ( 0.4%) 
+leaffaces              577/65536        1154/131072   ( 0.9%) 
+leafbrushes            293/65536         586/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3475/512000      13900/2048000  ( 0.7%) 
+edges                 1937/256000       7748/1024000  ( 0.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             40/32768         400/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           615/65536        1230/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      210356/0        ( 0.0%) 
+HDR lightdata         [variable]      210356/0        ( 0.0%) 
+visdata               [variable]        3776/16777216 ( 0.0%) 
+entdata               [variable]        1644/393216   ( 0.4%) 
+LDR ambient table      249/65536         996/262144   ( 0.4%) 
+HDR ambient table      249/65536         996/262144   ( 0.4%) 
+LDR leaf ambient      1166/65536       32648/1835008  ( 1.8%) 
+HDR leaf ambient      1166/65536       32648/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/674      ( 0.1%) 
+pakfile               [variable]       25587/0        ( 0.0%) 
+physics               [variable]       44673/4194304  ( 1.1%) 
+physics terrain       [variable]          69/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1406
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+1 second elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.vmf
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Material not found!: ISLAND/THATCH_ROOF001
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: BRICK/BLENDCOBBLETOCOBBLESNOW001
+Material not found!: CUSTOM/THATCH
+Patching WVT material: maps/gm_honewood_15/nature/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (384.00 -1232.00 672.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44097 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 162 texinfos to 105
+Reduced 17 texdatas to 14 (442 bytes to 333)
+Writing F:\Users\nilsa\Documents\Sledge maps\gm_honewood_15.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+reading f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\gm_honewood_15.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+833 faces
+508730 square feet [73257232.00 square inches]
+2 Displacements
+990 Square Feet [142646.09 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                121/16384        1452/196608   ( 0.7%) 
+brushsides             984/65536        7872/524288   ( 1.5%) 
+planes                 702/65536       14040/1310720  ( 1.1%) 
+vertexes              1113/65536       13356/786432   ( 1.7%) 
+nodes                  470/65536       15040/2097152  ( 0.7%) 
+texinfos               105/12288        7560/884736   ( 0.9%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts              50/0            1000/0        ( 0.0%) 
+disp_tris               64/0             128/0        ( 0.0%) 
+disp_lmsamples        2704/0            2704/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              337/65536       18872/3670016  ( 0.5%) 
+leaves                 472/65536       15104/2097152  ( 0.7%) 
+leaffaces              898/65536        1796/131072   ( 1.4%) 
+leafbrushes            281/65536         562/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5210/512000      20840/2048000  ( 1.0%) 
+edges                 2896/256000      11584/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           630/65536        1260/131072   ( 1.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      339416/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1645/393216   ( 0.4%) 
+LDR ambient table      472/65536        1888/262144   ( 0.7%) 
+HDR ambient table      472/65536        1888/262144   ( 0.7%) 
+LDR leaf ambient      3095/65536       86660/1835008  ( 4.7%) 
+HDR leaf ambient       472/65536       13216/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/682      ( 0.1%) 
+pakfile               [variable]       25587/0        ( 0.0%) 
+physics               [variable]       44097/4194304  ( 1.1%) 
+physics terrain       [variable]         276/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2173
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+PREP OK
+No vis information, direct lighting only.
+833 faces
+508730 square feet [73257232.00 square inches]
+2 Displacements
+990 Square Feet [142646.09 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                121/16384        1452/196608   ( 0.7%) 
+brushsides             984/65536        7872/524288   ( 1.5%) 
+planes                 702/65536       14040/1310720  ( 1.1%) 
+vertexes              1113/65536       13356/786432   ( 1.7%) 
+nodes                  470/65536       15040/2097152  ( 0.7%) 
+texinfos               105/12288        7560/884736   ( 0.9%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts              50/0            1000/0        ( 0.0%) 
+disp_tris               64/0             128/0        ( 0.0%) 
+disp_lmsamples        2704/0            2704/0        ( 0.0%) 
+faces                  833/65536       46648/3670016  ( 1.3%) 
+hdr faces              833/65536       46648/3670016  ( 1.3%) 
+origfaces              337/65536       18872/3670016  ( 0.5%) 
+leaves                 472/65536       15104/2097152  ( 0.7%) 
+leaffaces              898/65536        1796/131072   ( 1.4%) 
+leafbrushes            281/65536         562/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5210/512000      20840/2048000  ( 1.0%) 
+edges                 2896/256000      11584/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             45/32768         450/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           630/65536        1260/131072   ( 1.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      339416/0        ( 0.0%) 
+HDR lightdata         [variable]      339416/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1645/393216   ( 0.4%) 
+LDR ambient table      472/65536        1888/262144   ( 0.7%) 
+HDR ambient table      472/65536        1888/262144   ( 0.7%) 
+LDR leaf ambient      3095/65536       86660/1835008  ( 4.7%) 
+HDR leaf ambient      3095/65536       86660/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/682      ( 0.1%) 
+pakfile               [variable]       25587/0        ( 0.0%) 
+physics               [variable]       44097/4194304  ( 1.1%) 
+physics terrain       [variable]         276/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2173
+Writing f:\users\nilsa\documents\sledge maps\gm_honewood_15.bsp
+6 seconds elapsed

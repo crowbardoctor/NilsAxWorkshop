@@ -1,0 +1,1880 @@
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (165717 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 395 texinfos to 267
+Reduced 18 texdatas to 17 (403 bytes to 381)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2399 faces
+6 degenerate faces
+438969 square feet [63211536.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0096 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                472/16384        5664/196608   ( 2.9%) 
+brushsides            4921/65536       39368/524288   ( 7.5%) 
+planes                4764/65536       95280/1310720  ( 7.3%) 
+vertexes              3296/65536       39552/786432   ( 5.0%) 
+nodes                 2012/65536       64384/2097152  ( 3.1%) 
+texinfos               267/12288       19224/884736   ( 2.2%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2399/65536      134344/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1243/65536       69608/3670016  ( 1.9%) 
+leaves                2018/65536       64576/2097152  ( 3.1%) 
+leaffaces             2935/65536        5870/131072   ( 4.5%) 
+leafbrushes           1169/65536        2338/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            15902/512000      63608/2048000  ( 3.1%) 
+edges                 8788/256000      35152/1024000  ( 3.4%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            164/32768        1640/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2598/65536        5196/131072   ( 4.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1191752/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7184/393216   ( 1.8%) 
+LDR ambient table     2018/65536        8072/262144   ( 3.1%) 
+HDR ambient table     2018/65536        8072/262144   ( 3.1%) 
+LDR leaf ambient      8980/65536      251440/1835008  (13.7%) 
+HDR leaf ambient      2018/65536       56504/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      165717/4194304  ( 4.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6216
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (166605 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 396 texinfos to 267
+Reduced 18 texdatas to 17 (403 bytes to 381)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2397 faces
+6 degenerate faces
+438613 square feet [63160340.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0100 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                478/16384        5736/196608   ( 2.9%) 
+brushsides            4957/65536       39656/524288   ( 7.6%) 
+planes                4764/65536       95280/1310720  ( 7.3%) 
+vertexes              3315/65536       39780/786432   ( 5.1%) 
+nodes                 2028/65536       64896/2097152  ( 3.1%) 
+texinfos               267/12288       19224/884736   ( 2.2%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2397/65536      134232/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1240/65536       69440/3670016  ( 1.9%) 
+leaves                2034/65536       65088/2097152  ( 3.1%) 
+leaffaces             2940/65536        5880/131072   ( 4.5%) 
+leafbrushes           1175/65536        2350/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            15911/512000      63644/2048000  ( 3.1%) 
+edges                 8811/256000      35244/1024000  ( 3.4%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            177/32768        1770/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2796/65536        5592/131072   ( 4.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1189488/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7184/393216   ( 1.8%) 
+LDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+HDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+LDR leaf ambient      9045/65536      253260/1835008  (13.8%) 
+HDR leaf ambient      2034/65536       56952/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      166605/4194304  ( 4.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6237
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (166733 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 396 texinfos to 269
+Reduced 18 texdatas to 17 (403 bytes to 381)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2405 faces
+6 degenerate faces
+438969 square feet [63211540.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                478/16384        5736/196608   ( 2.9%) 
+brushsides            4957/65536       39656/524288   ( 7.6%) 
+planes                4768/65536       95360/1310720  ( 7.3%) 
+vertexes              3323/65536       39876/786432   ( 5.1%) 
+nodes                 2028/65536       64896/2097152  ( 3.1%) 
+texinfos               269/12288       19368/884736   ( 2.2%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2405/65536      134680/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1248/65536       69888/3670016  ( 1.9%) 
+leaves                2034/65536       65088/2097152  ( 3.1%) 
+leaffaces             2967/65536        5934/131072   ( 4.5%) 
+leafbrushes           1175/65536        2350/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            15983/512000      63932/2048000  ( 3.1%) 
+edges                 8837/256000      35348/1024000  ( 3.5%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            178/32768        1780/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2838/65536        5676/131072   ( 4.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1190796/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7184/393216   ( 1.8%) 
+LDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+HDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+LDR leaf ambient      9047/65536      253316/1835008  (13.8%) 
+HDR leaf ambient      2034/65536       56952/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      166733/4194304  ( 4.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6265
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (166733 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 396 texinfos to 269
+Reduced 18 texdatas to 17 (403 bytes to 381)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2405 faces
+6 degenerate faces
+438969 square feet [63211540.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                478/16384        5736/196608   ( 2.9%) 
+brushsides            4957/65536       39656/524288   ( 7.6%) 
+planes                4768/65536       95360/1310720  ( 7.3%) 
+vertexes              3323/65536       39876/786432   ( 5.1%) 
+nodes                 2028/65536       64896/2097152  ( 3.1%) 
+texinfos               269/12288       19368/884736   ( 2.2%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2405/65536      134680/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1248/65536       69888/3670016  ( 1.9%) 
+leaves                2034/65536       65088/2097152  ( 3.1%) 
+leaffaces             2967/65536        5934/131072   ( 4.5%) 
+leafbrushes           1175/65536        2350/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            15983/512000      63932/2048000  ( 3.1%) 
+edges                 8837/256000      35348/1024000  ( 3.5%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            178/32768        1780/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2838/65536        5676/131072   ( 4.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1190796/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+HDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+LDR leaf ambient      9047/65536      253316/1835008  (13.8%) 
+HDR leaf ambient      2034/65536       56952/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      166733/4194304  ( 4.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6265
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (166685 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 396 texinfos to 269
+Reduced 17 texdatas to 16 (373 bytes to 351)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2409 faces
+6 degenerate faces
+438625 square feet [63162132.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                478/16384        5736/196608   ( 2.9%) 
+brushsides            4957/65536       39656/524288   ( 7.6%) 
+planes                4770/65536       95400/1310720  ( 7.3%) 
+vertexes              3322/65536       39864/786432   ( 5.1%) 
+nodes                 2028/65536       64896/2097152  ( 3.1%) 
+texinfos               269/12288       19368/884736   ( 2.2%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2409/65536      134904/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1248/65536       69888/3670016  ( 1.9%) 
+leaves                2034/65536       65088/2097152  ( 3.1%) 
+leaffaces             2969/65536        5938/131072   ( 4.5%) 
+leafbrushes           1174/65536        2348/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            15987/512000      63948/2048000  ( 3.1%) 
+edges                 8836/256000      35344/1024000  ( 3.5%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            177/32768        1770/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2802/65536        5604/131072   ( 4.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1193708/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+HDR ambient table     2034/65536        8136/262144   ( 3.1%) 
+LDR leaf ambient      9046/65536      253288/1835008  (13.8%) 
+HDR leaf ambient      2034/65536       56952/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      166685/4194304  ( 4.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6261
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (167309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 396 texinfos to 269
+Reduced 17 texdatas to 16 (373 bytes to 351)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2425 faces
+6 degenerate faces
+439092 square feet [63229340.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0120 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                480/16384        5760/196608   ( 2.9%) 
+brushsides            4971/65536       39768/524288   ( 7.6%) 
+planes                4776/65536       95520/1310720  ( 7.3%) 
+vertexes              3341/65536       40092/786432   ( 5.1%) 
+nodes                 2035/65536       65120/2097152  ( 3.1%) 
+texinfos               269/12288       19368/884736   ( 2.2%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2425/65536      135800/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1252/65536       70112/3670016  ( 1.9%) 
+leaves                2041/65536       65312/2097152  ( 3.1%) 
+leaffaces             2998/65536        5996/131072   ( 4.6%) 
+leafbrushes           1178/65536        2356/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            16071/512000      64284/2048000  ( 3.1%) 
+edges                 8882/256000      35528/1024000  ( 3.5%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            177/32768        1770/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2802/65536        5604/131072   ( 4.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1195620/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     2041/65536        8164/262144   ( 3.1%) 
+HDR ambient table     2041/65536        8164/262144   ( 3.1%) 
+LDR leaf ambient      9058/65536      253624/1835008  (13.8%) 
+HDR leaf ambient      2041/65536       57148/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      167309/4194304  ( 4.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6299
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (173613 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 403 texinfos to 277
+Reduced 19 texdatas to 18 (417 bytes to 395)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2453 faces
+6 degenerate faces
+439952 square feet [63353164.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0100 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                499/16384        5988/196608   ( 3.0%) 
+brushsides            5093/65536       40744/524288   ( 7.8%) 
+planes                4806/65536       96120/1310720  ( 7.3%) 
+vertexes              3413/65536       40956/786432   ( 5.2%) 
+nodes                 2057/65536       65824/2097152  ( 3.1%) 
+texinfos               277/12288       19944/884736   ( 2.3%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2453/65536      137368/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1285/65536       71960/3670016  ( 2.0%) 
+leaves                2063/65536       66016/2097152  ( 3.1%) 
+leaffaces             3040/65536        6080/131072   ( 4.6%) 
+leafbrushes           1199/65536        2398/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            16366/512000      65464/2048000  ( 3.2%) 
+edges                 9098/256000      36392/1024000  ( 3.6%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            196/32768        1960/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3105/65536        6210/131072   ( 4.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1199884/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     2063/65536        8252/262144   ( 3.1%) 
+HDR ambient table     2063/65536        8252/262144   ( 3.1%) 
+LDR leaf ambient      9163/65536      256564/1835008  (14.0%) 
+HDR leaf ambient      2063/65536       57764/1835008  ( 3.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      173613/4194304  ( 4.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6409
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (173941 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 404 texinfos to 278
+Reduced 19 texdatas to 18 (417 bytes to 395)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2452 faces
+6 degenerate faces
+439554 square feet [63295820.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0095 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                500/16384        6000/196608   ( 3.1%) 
+brushsides            5099/65536       40792/524288   ( 7.8%) 
+planes                4808/65536       96160/1310720  ( 7.3%) 
+vertexes              3421/65536       41052/786432   ( 5.2%) 
+nodes                 2059/65536       65888/2097152  ( 3.1%) 
+texinfos               278/12288       20016/884736   ( 2.3%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2452/65536      137312/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1286/65536       72016/3670016  ( 2.0%) 
+leaves                2065/65536       66080/2097152  ( 3.2%) 
+leaffaces             3046/65536        6092/131072   ( 4.6%) 
+leafbrushes           1202/65536        2404/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            16364/512000      65456/2048000  ( 3.2%) 
+edges                 9095/256000      36380/1024000  ( 3.6%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            194/32768        1940/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3081/65536        6162/131072   ( 4.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1198836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     2065/65536        8260/262144   ( 3.2%) 
+HDR ambient table     2065/65536        8260/262144   ( 3.2%) 
+LDR leaf ambient      9164/65536      256592/1835008  (14.0%) 
+HDR leaf ambient      2065/65536       57820/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      173941/4194304  ( 4.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6405
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (173941 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 404 texinfos to 278
+Reduced 19 texdatas to 18 (417 bytes to 395)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2452 faces
+6 degenerate faces
+439554 square feet [63295820.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0098 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                500/16384        6000/196608   ( 3.1%) 
+brushsides            5099/65536       40792/524288   ( 7.8%) 
+planes                4808/65536       96160/1310720  ( 7.3%) 
+vertexes              3419/65536       41028/786432   ( 5.2%) 
+nodes                 2059/65536       65888/2097152  ( 3.1%) 
+texinfos               278/12288       20016/884736   ( 2.3%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2452/65536      137312/3670016  ( 3.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1286/65536       72016/3670016  ( 2.0%) 
+leaves                2065/65536       66080/2097152  ( 3.2%) 
+leaffaces             3046/65536        6092/131072   ( 4.6%) 
+leafbrushes           1202/65536        2404/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            16364/512000      65456/2048000  ( 3.2%) 
+edges                 9095/256000      36380/1024000  ( 3.6%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            196/32768        1960/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3099/65536        6198/131072   ( 4.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1198836/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     2065/65536        8260/262144   ( 3.2%) 
+HDR ambient table     2065/65536        8260/262144   ( 3.2%) 
+LDR leaf ambient      9164/65536      256592/1835008  (14.0%) 
+HDR leaf ambient      2065/65536       57820/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      173941/4194304  ( 4.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6405
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_physbox (81.50 -56.00 -39.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 288.0 -344.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 -88.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 672.0 -312.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 640.0 264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 128.0 232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3360.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3872.0 1024.0 -48.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -1024.0 -48.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (174301 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 405 texinfos to 279
+Reduced 19 texdatas to 18 (417 bytes to 395)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+1 second elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+LoadPortals: couldn't read f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+No vis information, direct lighting only.
+2468 faces
+7 degenerate faces
+439603 square feet [63302908.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                501/16384        6012/196608   ( 3.1%) 
+brushsides            5106/65536       40848/524288   ( 7.8%) 
+planes                4810/65536       96200/1310720  ( 7.3%) 
+vertexes              3441/65536       41292/786432   ( 5.3%) 
+nodes                 2090/65536       66880/2097152  ( 3.2%) 
+texinfos               279/12288       20088/884736   ( 2.3%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2468/65536      138208/3670016  ( 3.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1291/65536       72296/3670016  ( 2.0%) 
+leaves                2096/65536       67072/2097152  ( 3.2%) 
+leaffaces             3072/65536        6144/131072   ( 4.7%) 
+leafbrushes           1223/65536        2446/131072   ( 1.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            16473/512000      65892/2048000  ( 3.2%) 
+edges                 9151/256000      36604/1024000  ( 3.6%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            195/32768        1950/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3054/65536        6108/131072   ( 4.7%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1200468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     2096/65536        8384/262144   ( 3.2%) 
+HDR ambient table     2096/65536        8384/262144   ( 3.2%) 
+LDR leaf ambient      9330/65536      261240/1835008  (14.2%) 
+HDR leaf ambient      2096/65536       58688/1835008  ( 3.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      174301/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6461
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
