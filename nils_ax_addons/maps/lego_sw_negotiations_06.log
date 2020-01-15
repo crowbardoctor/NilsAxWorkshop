@@ -1878,3 +1878,283 @@ Level flags = 0
 Total triangle count: 6461
 Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
 3 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.prt...Building visibility clusters...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174693 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 406 texinfos to 259
+Reduced 19 texdatas to 18 (417 bytes to 395)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+0 seconds elapsed
+
+
+
+materialPath: F:\Program Files\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.prt...Building visibility clusters...
+done (0)
+Can't load skybox file skybox/space to build the default cubemap!
+Can't load skybox file skybox/space to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174693 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 406 texinfos to 259
+Reduced 19 texdatas to 18 (417 bytes to 395)
+Writing F:\Users\nilsa\Documents\Sledge maps\lego_sw_negotiations_06.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+reading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.prt
+ 399 portalclusters
+1331 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 228 visible clusters (0.44%)
+Total clusters visible: 51249
+Average clusters visible: 128
+Building PAS...
+Average clusters audible: 319
+visdatasize:34560  compressed from 44688
+writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+1585 faces
+6 degenerate faces
+223217 square feet [32143304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1579 patches before subdivision
+27593 patches after subdivision
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3270884, max 492
+transfer lists:  25.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(365236, 186407, 115156)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(121221, 31334, 14174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(45538, 5340, 2136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(19102, 934, 342)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8577, 163, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4151, 29, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2103, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1112, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(603, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(335, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(188, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(107, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(62, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(36, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0065 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                502/16384        6024/196608   ( 3.1%) 
+brushsides            5112/65536       40896/524288   ( 7.8%) 
+planes                4810/65536       96200/1310720  ( 7.3%) 
+vertexes              2344/65536       28128/786432   ( 3.6%) 
+nodes                 1020/65536       32640/2097152  ( 1.6%) 
+texinfos               259/12288       18648/884736   ( 2.1%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1585/65536       88760/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              925/65536       51800/3670016  ( 1.4%) 
+leaves                1026/65536       32832/2097152  ( 1.6%) 
+leaffaces             1981/65536        3962/131072   ( 3.0%) 
+leafbrushes           1198/65536        2396/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            10952/512000      43808/2048000  ( 2.1%) 
+edges                 6288/256000      25152/1024000  ( 2.5%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            122/32768        1220/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1956/65536        3912/131072   ( 3.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      635168/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       34560/16777216 ( 0.2%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     1026/65536        4104/262144   ( 1.6%) 
+HDR ambient table     1026/65536        4104/262144   ( 1.6%) 
+LDR leaf ambient      2994/65536       83832/1835008  ( 4.6%) 
+HDR leaf ambient      1026/65536       28728/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      174693/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4157
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+PREP OK
+1585 faces
+6 degenerate faces
+223217 square feet [32143304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1579 patches before subdivision
+27593 patches after subdivision
+WARNING: light_spot at (4800 1088 64) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (4800 1088 64) has outer angle larger than 90 degrees! Clamping to 90...
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3270884, max 492
+transfer lists:  25.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(365333, 186436, 115159)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(121257, 31338, 14174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(45557, 5341, 2136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(19110, 934, 342)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8582, 163, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4153, 29, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2104, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1112, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(603, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(335, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(188, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(107, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(62, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(36, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0070 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                502/16384        6024/196608   ( 3.1%) 
+brushsides            5112/65536       40896/524288   ( 7.8%) 
+planes                4810/65536       96200/1310720  ( 7.3%) 
+vertexes              2344/65536       28128/786432   ( 3.6%) 
+nodes                 1020/65536       32640/2097152  ( 1.6%) 
+texinfos               259/12288       18648/884736   ( 2.1%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1585/65536       88760/3670016  ( 2.4%) 
+hdr faces             1585/65536       88760/3670016  ( 2.4%) 
+origfaces              925/65536       51800/3670016  ( 1.4%) 
+leaves                1026/65536       32832/2097152  ( 1.6%) 
+leaffaces             1981/65536        3962/131072   ( 3.0%) 
+leafbrushes           1198/65536        2396/131072   ( 1.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            10952/512000      43808/2048000  ( 2.1%) 
+edges                 6288/256000      25152/1024000  ( 2.5%) 
+LDR worldlights         15/8192         1320/720896   ( 0.2%) 
+HDR worldlights         15/8192         1320/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            122/32768        1220/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1956/65536        3912/131072   ( 3.0%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      635168/0        ( 0.0%) 
+HDR lightdata         [variable]      635168/0        ( 0.0%) 
+visdata               [variable]       34560/16777216 ( 0.2%) 
+entdata               [variable]        7584/393216   ( 1.9%) 
+LDR ambient table     1026/65536        4104/262144   ( 1.6%) 
+HDR ambient table     1026/65536        4104/262144   ( 1.6%) 
+LDR leaf ambient      2994/65536       83832/1835008  ( 4.6%) 
+HDR leaf ambient      2994/65536       83832/1835008  ( 4.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      174693/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4157
+Writing f:\users\nilsa\documents\sledge maps\lego_sw_negotiations_06.bsp
+3 seconds elapsed

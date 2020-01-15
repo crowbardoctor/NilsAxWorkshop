@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8423"
-	"mapversion" "893"
+	"mapversion" "896"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,13 +26,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "32"
+	"nGridSpacing" "16"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "893"
+	"mapversion" "896"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1792,7 +1792,7 @@ world
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "8"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10144,6 +10144,82 @@ world
 		editor
 		{
 			"color" "0 232 133"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "11314"
+		side
+		{
+			"id" "8613"
+			"plane" "(-128 768 -64) (128 768 -64) (128 704 -64)"
+			"material" "LEGO_STAR_WARS/GRATE0"
+			"uaxis" "[1 0 0 0] 0.5"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "8614"
+			"plane" "(-128 704 -96) (128 704 -96) (128 768 -96)"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "8615"
+			"plane" "(-128 768 -64) (-128 704 -64) (-128 704 -96)"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "8616"
+			"plane" "(128 768 -96) (128 704 -96) (128 704 -64)"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "8617"
+			"plane" "(128 768 -64) (-128 768 -64) (-128 768 -96)"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "8618"
+			"plane" "(128 704 -96) (-128 704 -96) (-128 704 -64)"
+			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 251 164"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -28642,23 +28718,12 @@ world
 	}
 	solid
 	{
-		"id" "11314"
+		"id" "11384"
 		side
 		{
-			"id" "8613"
-			"plane" "(-128 768 -64) (128 768 -64) (128 704 -64)"
-			"material" "LEGO_STAR_WARS/GRATE0"
-			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "8614"
-			"plane" "(-128 704 -96) (128 704 -96) (128 768 -96)"
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"id" "8619"
+			"plane" "(-432 512 -48) (-368 512 -48) (-368 448 -48)"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -28667,9 +28732,20 @@ world
 		}
 		side
 		{
-			"id" "8615"
-			"plane" "(-128 768 -64) (-128 704 -64) (-128 704 -96)"
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"id" "8620"
+			"plane" "(-432 448 -80) (-368 448 -80) (-368 512 -80)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "8621"
+			"plane" "(-432 512 -48) (-432 448 -48) (-432 448 -80)"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -28678,9 +28754,9 @@ world
 		}
 		side
 		{
-			"id" "8616"
-			"plane" "(128 768 -96) (128 704 -96) (128 704 -64)"
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"id" "8622"
+			"plane" "(-368 512 -80) (-368 448 -80) (-368 448 -48)"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -28689,9 +28765,9 @@ world
 		}
 		side
 		{
-			"id" "8617"
-			"plane" "(128 768 -64) (-128 768 -64) (-128 768 -96)"
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"id" "8623"
+			"plane" "(-368 512 -48) (-432 512 -48) (-432 512 -80)"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -28700,9 +28776,9 @@ world
 		}
 		side
 		{
-			"id" "8618"
-			"plane" "(128 704 -96) (-128 704 -96) (-128 704 -64)"
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"id" "8624"
+			"plane" "(-368 448 -80) (-432 448 -80) (-432 448 -48)"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -28711,7 +28787,7 @@ world
 		}
 		editor
 		{
-			"color" "0 251 164"
+			"color" "0 193 254"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
