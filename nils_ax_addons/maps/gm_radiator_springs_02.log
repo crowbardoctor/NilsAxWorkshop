@@ -195,4 +195,2153 @@ Average clusters audible: 583
 visdatasize:89710  compressed from 93280
 writing c:\mapsrc\gm_radiator_springs_02.bsp
 0 seconds elapsed
-.
+..9.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 7 texdatas to 7 (166 bytes to 166)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+..10Optimized: 866 visible clusters (0.27%)
+Total clusters visible: 318223
+Average clusters visible: 545
+Building PAS...
+Average clusters audible: 583
+visdatasize:89768  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+28 minutes, 32 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 7 texdatas to 7 (166 bytes to 166)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 7 texdatas to 7 (166 bytes to 166)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 7 texdatas to 7 (166 bytes to 166)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 7 texdatas to 7 (166 bytes to 166)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 7 texdatas to 7 (166 bytes to 166)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73147 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 24 texinfos to 20
+Reduced 7 texdatas to 7 (166 bytes to 166)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73700 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74253 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74253 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74253 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74253 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74253 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73701 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73701 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74254 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73701 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73701 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74853 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74853 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74853 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76237 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76237 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76238 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76366 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76366 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74692 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 588 portalclusters
+1698 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 752 visible clusters (0.22%)
+Total clusters visible: 339432
+Average clusters visible: 577
+Building PAS...
+Average clusters audible: 588
+visdatasize:91652  compressed from 94080
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74855 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74855 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74855 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74856 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74856 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 26
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_02.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74855 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 33 texinfos to 23
+Reduced 8 texdatas to 8 (185 bytes to 185)
+Writing C:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_02.bsp
+reading c:\mapsrc\gm_radiator_springs_02.prt
+ 583 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 745 visible clusters (0.22%)
+Total clusters visible: 333612
+Average clusters visible: 572
+Building PAS...
+Average clusters audible: 583
+visdatasize:89710  compressed from 93280
+writing c:\mapsrc\gm_radiator_springs_02.bsp
+0 seconds elapsed
