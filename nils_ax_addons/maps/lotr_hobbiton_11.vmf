@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8372"
-	"mapversion" "73"
+	"mapversion" "78"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "0"
-	"mapversion" "73"
+	"mapversion" "78"
 	"classname" "worldspawn"
 	"_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
 	"detailmaterial" "detail/detailsprites"
@@ -1025,82 +1025,6 @@ world
 		editor
 		{
 			"color" "0 202 215"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "114"
-		side
-		{
-			"id" "115"
-			"plane" "(-176 376 -96) (-176 376 -128) (-176 344 -128)"
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[0 1 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "116"
-			"plane" "(-184 344 -96) (-184 344 -128) (-184 376 -128)"
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[0 1 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "117"
-			"plane" "(-176 344 -96) (-176 344 -128) (-184 344 -128)"
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "118"
-			"plane" "(-184 376 -96) (-184 376 -128) (-176 376 -128)"
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "119"
-			"plane" "(-184 376 -128) (-184 344 -128) (-176 344 -128)"
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 -1 0 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "120"
-			"plane" "(-184 344 -96) (-184 376 -96) (-176 376 -96)"
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 -1 0 0] 0.5"
-			"rotation" "0"
-			"lightmapscale" "32"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 108 209"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -3756,8 +3680,8 @@ world
 			"id" "1454"
 			"plane" "(512 512 32) (512 512 0) (512 -512 0)"
 			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[0 1 0 0] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"uaxis" "[0 1 0 0] 0.5"
+			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "1"
 			"smoothing_groups" "0"
@@ -3767,8 +3691,8 @@ world
 			"id" "1453"
 			"plane" "(-512 -512 32) (-512 -512 0) (-512 512 0)"
 			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[0 1 0 0] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"uaxis" "[0 1 0 0] 0.5"
+			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "1"
 			"smoothing_groups" "0"
@@ -3778,8 +3702,8 @@ world
 			"id" "1452"
 			"plane" "(512 -512 32) (512 -512 0) (-512 -512 0)"
 			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"uaxis" "[1 0 0 0] 0.5"
+			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "1"
 			"smoothing_groups" "0"
@@ -3789,8 +3713,8 @@ world
 			"id" "1451"
 			"plane" "(-512 512 32) (-512 512 0) (512 512 0)"
 			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 0 -1 0] 1"
+			"uaxis" "[1 0 0 0] 0.5"
+			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "1"
 			"smoothing_groups" "0"
@@ -3800,8 +3724,8 @@ world
 			"id" "1450"
 			"plane" "(-512 512 0) (-512 -512 0) (512 -512 0)"
 			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 -1 0 0] 1"
+			"uaxis" "[1 0 0 0] 0.5"
+			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "1"
 			"smoothing_groups" "0"
@@ -3811,8 +3735,8 @@ world
 			"id" "1449"
 			"plane" "(-512 -512 32) (-512 512 32) (512 512 32)"
 			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 0] 1"
-			"vaxis" "[0 -1 0 0] 1"
+			"uaxis" "[1 0 0 0] 0.5"
+			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "1"
 			"smoothing_groups" "0"
@@ -13482,6 +13406,36 @@ entity
 	"spawnflags" "0"
 	"style" "0"
 	"origin" "0 64 -48"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2500]"
+	}
+}
+entity
+{
+	"id" "2410"
+	"classname" "light_spot"
+	"_cone" "100"
+	"_constant_attn" "1"
+	"_distance" "0"
+	"_exponent" "1"
+	"_fifty_percent_distance" "0"
+	"_hardfalloff" "0"
+	"_inner_cone" "0"
+	"_light" "255 255 255 800"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_linear_attn" "0"
+	"_quadratic_attn" "0"
+	"_zero_percent_distance" "0"
+	"angles" "-90 0 0"
+	"pitch" "-90"
+	"spawnflags" "0"
+	"style" "0"
+	"origin" "0 64 -64"
 	editor
 	{
 		"color" "220 30 220"
