@@ -1781,3 +1781,705 @@ Level flags = 0
 Total triangle count: 5206
 Writing c:\mapsrc\lotr_hobbiton_11.bsp
 14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading c:\mapsrc\lotr_hobbiton_11.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/lotr_hobbiton_11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_spot (0.00 -24.00 -48.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 226 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 26
+Reduced 8 texdatas to 6 (198 bytes to 159)
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\lotr_hobbiton_11.bsp
+reading c:\mapsrc\lotr_hobbiton_11.prt
+LoadPortals: couldn't read c:\mapsrc\lotr_hobbiton_11.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\lotr_hobbiton_11.bsp
+No vis information, direct lighting only.
+1779 faces
+1 degenerate faces
+72388 square feet [10423946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0575 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                165/8192         1980/98304    ( 2.0%) 
+brushsides            1289/65536       10312/524288   ( 2.0%) 
+planes                 714/65536       14280/1310720  ( 1.1%) 
+vertexes              2227/65536       26724/786432   ( 3.4%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1779/65536       99624/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 191/65536        6112/2097152  ( 0.3%) 
+leaffaces             1980/65536        3960/131072   ( 3.0%) 
+leafbrushes            235/65536         470/131072   ( 0.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10687/512000      42748/2048000  ( 2.1%) 
+edges                 6042/256000      24168/1024000  ( 2.4%) 
+LDR worldlights          8/8192          704/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            386/32768        3860/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5757/65536       11514/131072   ( 8.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3947104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        3702/393216   ( 0.9%) 
+LDR ambient table      191/65536         764/262144   ( 0.3%) 
+HDR ambient table      191/65536         764/262144   ( 0.3%) 
+LDR leaf ambient      1306/65536       36568/1835008  ( 2.0%) 
+HDR leaf ambient       191/65536        5348/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/212      ( 0.5%) 
+pakfile               [variable]       87123/0        ( 0.0%) 
+physics               [variable]       48915/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5254
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+15 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading c:\mapsrc\lotr_hobbiton_11.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/lotr_hobbiton_11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (0.00 -468.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 226 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 26
+Reduced 8 texdatas to 6 (198 bytes to 159)
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\lotr_hobbiton_11.bsp
+reading c:\mapsrc\lotr_hobbiton_11.prt
+LoadPortals: couldn't read c:\mapsrc\lotr_hobbiton_11.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\lotr_hobbiton_11.bsp
+No vis information, direct lighting only.
+1779 faces
+1 degenerate faces
+72388 square feet [10423946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0502 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                165/8192         1980/98304    ( 2.0%) 
+brushsides            1289/65536       10312/524288   ( 2.0%) 
+planes                 714/65536       14280/1310720  ( 1.1%) 
+vertexes              2227/65536       26724/786432   ( 3.4%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1779/65536       99624/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 191/65536        6112/2097152  ( 0.3%) 
+leaffaces             1980/65536        3960/131072   ( 3.0%) 
+leafbrushes            235/65536         470/131072   ( 0.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10687/512000      42748/2048000  ( 2.1%) 
+edges                 6042/256000      24168/1024000  ( 2.4%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            386/32768        3860/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5757/65536       11514/131072   ( 8.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3947104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2938/393216   ( 0.7%) 
+LDR ambient table      191/65536         764/262144   ( 0.3%) 
+HDR ambient table      191/65536         764/262144   ( 0.3%) 
+LDR leaf ambient      1312/65536       36736/1835008  ( 2.0%) 
+HDR leaf ambient       191/65536        5348/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       87123/0        ( 0.0%) 
+physics               [variable]       48915/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5254
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading c:\mapsrc\lotr_hobbiton_11.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/lotr_hobbiton_11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (0.00 -468.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 226 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 26
+Reduced 8 texdatas to 6 (198 bytes to 159)
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\lotr_hobbiton_11.bsp
+reading c:\mapsrc\lotr_hobbiton_11.prt
+LoadPortals: couldn't read c:\mapsrc\lotr_hobbiton_11.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\lotr_hobbiton_11.bsp
+No vis information, direct lighting only.
+1779 faces
+1 degenerate faces
+72388 square feet [10423946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0488 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                165/8192         1980/98304    ( 2.0%) 
+brushsides            1289/65536       10312/524288   ( 2.0%) 
+planes                 714/65536       14280/1310720  ( 1.1%) 
+vertexes              2227/65536       26724/786432   ( 3.4%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1779/65536       99624/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 191/65536        6112/2097152  ( 0.3%) 
+leaffaces             1980/65536        3960/131072   ( 3.0%) 
+leafbrushes            235/65536         470/131072   ( 0.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10687/512000      42748/2048000  ( 2.1%) 
+edges                 6042/256000      24168/1024000  ( 2.4%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            386/32768        3860/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5757/65536       11514/131072   ( 8.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3947104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2938/393216   ( 0.7%) 
+LDR ambient table      191/65536         764/262144   ( 0.3%) 
+HDR ambient table      191/65536         764/262144   ( 0.3%) 
+LDR leaf ambient      1319/65536       36932/1835008  ( 2.0%) 
+HDR leaf ambient       191/65536        5348/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       87123/0        ( 0.0%) 
+physics               [variable]       48915/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5254
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+15 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading c:\mapsrc\lotr_hobbiton_11.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/lotr_hobbiton_11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (0.00 -468.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 226 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 26
+Reduced 8 texdatas to 6 (198 bytes to 159)
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\lotr_hobbiton_11.bsp
+reading c:\mapsrc\lotr_hobbiton_11.prt
+LoadPortals: couldn't read c:\mapsrc\lotr_hobbiton_11.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\lotr_hobbiton_11.bsp
+No vis information, direct lighting only.
+1779 faces
+1 degenerate faces
+72388 square feet [10423946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0510 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                165/8192         1980/98304    ( 2.0%) 
+brushsides            1289/65536       10312/524288   ( 2.0%) 
+planes                 714/65536       14280/1310720  ( 1.1%) 
+vertexes              2227/65536       26724/786432   ( 3.4%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1779/65536       99624/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 191/65536        6112/2097152  ( 0.3%) 
+leaffaces             1980/65536        3960/131072   ( 3.0%) 
+leafbrushes            235/65536         470/131072   ( 0.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10687/512000      42748/2048000  ( 2.1%) 
+edges                 6042/256000      24168/1024000  ( 2.4%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            386/32768        3860/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5757/65536       11514/131072   ( 8.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3947104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2938/393216   ( 0.7%) 
+LDR ambient table      191/65536         764/262144   ( 0.3%) 
+HDR ambient table      191/65536         764/262144   ( 0.3%) 
+LDR leaf ambient      1323/65536       37044/1835008  ( 2.0%) 
+HDR leaf ambient       191/65536        5348/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       87123/0        ( 0.0%) 
+physics               [variable]       48915/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5254
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+15 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading c:\mapsrc\lotr_hobbiton_11.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/lotr_hobbiton_11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (0.00 -468.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 226 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48979 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 26
+Reduced 8 texdatas to 6 (198 bytes to 159)
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\lotr_hobbiton_11.bsp
+reading c:\mapsrc\lotr_hobbiton_11.prt
+LoadPortals: couldn't read c:\mapsrc\lotr_hobbiton_11.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\lotr_hobbiton_11.bsp
+No vis information, direct lighting only.
+1779 faces
+1 degenerate faces
+72388 square feet [10423946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0524 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                167/8192         2004/98304    ( 2.0%) 
+brushsides            1301/65536       10408/524288   ( 2.0%) 
+planes                 726/65536       14520/1310720  ( 1.1%) 
+vertexes              2247/65536       26964/786432   ( 3.4%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1779/65536       99624/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 191/65536        6112/2097152  ( 0.3%) 
+leaffaces             1980/65536        3960/131072   ( 3.0%) 
+leafbrushes            237/65536         474/131072   ( 0.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10695/512000      42780/2048000  ( 2.1%) 
+edges                 6046/256000      24184/1024000  ( 2.4%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            386/32768        3860/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5781/65536       11562/131072   ( 8.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3947104/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2938/393216   ( 0.7%) 
+LDR ambient table      191/65536         764/262144   ( 0.3%) 
+HDR ambient table      191/65536         764/262144   ( 0.3%) 
+LDR leaf ambient      1325/65536       37100/1835008  ( 2.0%) 
+HDR leaf ambient       191/65536        5348/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       87123/0        ( 0.0%) 
+physics               [variable]       48979/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5262
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+15 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\materials
+Loading c:\mapsrc\lotr_hobbiton_11.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/lotr_hobbiton_11/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (0.00 -468.00 -120.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 226 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_10*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48979 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 53 texinfos to 26
+Reduced 8 texdatas to 6 (198 bytes to 159)
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\lotr_hobbiton_11.bsp
+reading c:\mapsrc\lotr_hobbiton_11.prt
+LoadPortals: couldn't read c:\mapsrc\lotr_hobbiton_11.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\lotr_hobbiton_11.bsp
+No vis information, direct lighting only.
+1780 faces
+1 degenerate faces
+72388 square feet [10423946.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0546 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                167/8192         2004/98304    ( 2.0%) 
+brushsides            1301/65536       10408/524288   ( 2.0%) 
+planes                 730/65536       14600/1310720  ( 1.1%) 
+vertexes              2248/65536       26976/786432   ( 3.4%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1780/65536       99680/3670016  ( 2.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              489/65536       27384/3670016  ( 0.7%) 
+leaves                 191/65536        6112/2097152  ( 0.3%) 
+leaffaces             1981/65536        3962/131072   ( 3.0%) 
+leafbrushes            237/65536         474/131072   ( 0.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10699/512000      42796/2048000  ( 2.1%) 
+edges                 6048/256000      24192/1024000  ( 2.4%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            386/32768        3860/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5781/65536       11562/131072   ( 8.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3950564/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2938/393216   ( 0.7%) 
+LDR ambient table      191/65536         764/262144   ( 0.3%) 
+HDR ambient table      191/65536         764/262144   ( 0.3%) 
+LDR leaf ambient      1325/65536       37100/1835008  ( 2.0%) 
+HDR leaf ambient       191/65536        5348/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       87123/0        ( 0.0%) 
+physics               [variable]       48979/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5264
+Writing c:\mapsrc\lotr_hobbiton_11.bsp
+15 seconds elapsed
