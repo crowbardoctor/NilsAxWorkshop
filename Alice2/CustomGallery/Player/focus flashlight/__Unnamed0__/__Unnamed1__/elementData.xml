@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.response.PropertyAnimation" version="2.001">
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.ExternalReferenceKeyedCriterion" name="element">flashlight.lightCone1</property>
+    <property name="propertyName">opacity</property>
+    <property class="java.lang.Double" name="value">0.1</property>
+    <property class="edu.cmu.cs.stage3.util.HowMuch" name="howMuch">edu.cmu.cs.stage3.util.HowMuch[INSTANCE_AND_PARTS]</property>
+    <property
+        class="edu.cmu.cs.stage3.alice.core.style.TraditionalAnimationStyle" name="style">edu.cmu.cs.stage3.alice.core.style.TraditionalAnimationStyle[BEGIN_AND_END_ABRUPTLY]</property>
+    <property class="java.lang.Double" name="duration">0.01</property>
+    <property name="isCommentedOut">false</property>
+    <property name="isFirstClass">false</property>
+    <property name="data">
+        <entry>
+            <key class="java.lang.String">edu.cmu.cs.stage3.alice.authoringtool.visibleProperties</key>
+            <value class="java.lang.String">element,propertyName,value,duration,style</value>
+        </entry>
+    </property>
+</element>

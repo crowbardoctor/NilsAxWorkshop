@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element
+    class="edu.cmu.cs.stage3.alice.core.response.UserDefinedResponse"
+    name="closeHand" version="2.001">
+    <child filename="__Unnamed0__"/>
+    <child filename="duration"/>
+    <property name="requiredFormalParameters"/>
+    <property name="keywordFormalParameters"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Variable" name="localVariables">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">closeHand.duration</item>
+    </property>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Response" name="componentResponses">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">closeHand.__Unnamed0__</item>
+    </property>
+    <property class="java.lang.Double" name="duration">1.0</property>
+    <property name="isCommentedOut">false</property>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

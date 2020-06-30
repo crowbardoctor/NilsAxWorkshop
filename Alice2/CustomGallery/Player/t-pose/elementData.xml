@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Pose" name="t-pose" version="2.001">
+    <property name="poseMap">
+        <entry>
+            <key class="java.lang.String">leftThigh.leftKnee.leftCalf.leftFoot</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=9.574691607020759E-20,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.005031758000465625,rc31=-0.3730026084576964,rc32=0.01776612026529081,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">rightThigh.rightKnee</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.022787959128129167,rc31=-0.2925154168663705,rc32=0.0020671997883390217,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">leftThigh.leftKnee</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=-0.03374358528475526,rc31=-0.27660209747665826,rc32=0.004935888328360356,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.leftArm.leftForarm</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=-8.507521319130082E-18,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=-0.25361600656428573,rc31=-0.021585825849591848,rc32=-0.01739935901252099,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.rightArm.rightForarm.rightHand</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=7.768228116999646E-17,rc02=9.710285146249557E-18,rc03=0.0,rc10=0.0,rc11=1.0,rc12=8.507521319130082E-18,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.19183834099122196,rc31=0.0012133360354427993,rc32=0.0029405019321720677,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.leftArm.leftForarm.leftHand</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=-0.2072878918314271,rc31=0.0012133360354427993,rc32=2.3595828849526398E-4,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">rightThigh.rightKnee.rightCalf.rightFoot</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=-0.005031758000465625,rc31=-0.3745009821649573,rc32=0.01776612026529081,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.neck.head</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=9.319021194739866E-4,rc31=0.07686772674062384,rc32=0.009220326599353333,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">leftThigh</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=-0.0634360919344417,rc31=0.7753101710666589,rc32=0.011719689122599457,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.rightArm</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0000000000000002,rc01=0.0,rc02=-2.7755575615628914E-17,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=-1.457167719820518E-16,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.1577345111733983,rc31=0.299202246572811,rc32=-0.02225872600107681,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.rightArm.rightForarm</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=-8.507521319130082E-18,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.2571369535528767,rc31=-0.021585825849591848,rc32=-0.01739935901252099,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">leftThigh.leftKnee.leftCalf</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=-0.004786588159116408,rc31=-0.07934575695057575,rc32=-0.021013111496106206,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.neck</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=-0.008577093612018213,rc31=0.3792336346799226,rc32=-0.03761995843096374,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso.leftArm</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0000000000001028,rc01=-2.244298497044994E-16,rc02=-1.093583570943072E-14,rc03=0.0,rc10=3.5496779127175415E-15,rc11=0.9999999999999906,rc12=1.113661713836535E-16,rc13=0.0,rc20=-4.7961634663806756E-14,rc21=-2.363295111278375E-15,rc22=0.9999999999999906,rc23=0.0,rc30=-0.15799078315544934,rc31=0.2992022465728017,rc32=-0.022062099974172966,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">rightThigh</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.06254654900221658,rc31=0.7899382530262348,rc32=0.011719689122599457,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">torso</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.002046077105291403,rc31=0.9205176055559363,rc32=-0.004829450622136946,rc33=1.0]</value>
+        </entry>
+        <entry>
+            <key class="java.lang.String">rightThigh.rightKnee.rightCalf</key>
+            <value class="edu.cmu.cs.stage3.math.Matrix44">edu.cmu.cs.stage3.math.Matrix44[rc00=1.0,rc01=0.0,rc02=0.0,rc03=0.0,rc10=0.0,rc11=1.0,rc12=0.0,rc13=0.0,rc20=0.0,rc21=0.0,rc22=1.0,rc23=0.0,rc30=0.004787871770851243,rc31=-0.0839988043499881,rc32=-0.018144422956084868,rc33=1.0]</value>
+        </entry>
+    </property>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

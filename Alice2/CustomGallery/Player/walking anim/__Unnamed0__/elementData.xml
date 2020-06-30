@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.response.DoTogether" version="2.001">
+    <child filename="__Unnamed0__"/>
+    <child filename="__Unnamed1__"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Response" name="componentResponses">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion"><![CDATA[walking anim.__Unnamed0__.__Unnamed0__]]></item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion"><![CDATA[walking anim.__Unnamed0__.__Unnamed1__]]></item>
+    </property>
+    <property class="java.lang.Double" name="duration">1.0</property>
+    <property name="isCommentedOut">false</property>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

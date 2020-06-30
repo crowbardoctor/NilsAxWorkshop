@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Model" name="thumbKnuckle" version="2.001">
+    <child filename="__ita__"/>
+    <child filename="thumbBottom"/>
+    <property name="color">
+        <red>1.0</red>
+        <green>1.0</green>
+        <blue>1.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property name="ambientColor">
+        <red>1.0</red>
+        <green>1.0</green>
+        <blue>1.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="opacity">1.0</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.FillingStyle" name="fillingStyle">edu.cmu.cs.stage3.alice.scenegraph.FillingStyle[SOLID]</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle" name="shadingStyle">edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle[SMOOTH]</property>
+    <property name="specularHighlightColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="specularHighlightExponent">0.0</property>
+    <property name="emissiveColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="diffuseColorMap"><![CDATA[newglove_3 - Default_CL]]></property>
+    <property name="opacityMap"/>
+    <property name="emissiveColorMap"/>
+    <property name="specularHighlightColorMap"/>
+    <property name="bumpMap"/>
+    <property name="detailMap"/>
+    <property name="interactionMap"/>
+    <property name="visualScale">
+        <row>
+            <item>9.600000000000017</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>9.600000000000003</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>9.600000000000009</item>
+        </row>
+    </property>
+    <property name="isShowing">true</property>
+    <property name="disabledAffectors"/>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="geometry">gloveBottom.gloveFist.thumbKnuckle.__ita__</property>
+    <property name="visualization"/>
+    <property
+        componentClass="edu.cmu.cs.stage3.alice.core.Transformable" name="parts">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">gloveBottom.gloveFist.thumbKnuckle.thumbBottom</item>
+    </property>
+    <property name="poses"/>
+    <property name="localTransformation">
+        <row>
+            <item>0.8141000000000497</item>
+            <item>5.723679451404007E-15</item>
+            <item>0.5807000000000277</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>-5.965618424599861E-14</item>
+            <item>1.0000000000001397</item>
+            <item>-4.637445150112996E-14</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>-0.5807000000000218</item>
+            <item>8.520961713998072E-15</item>
+            <item>0.8141000000000179</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.08514389974708463</item>
+            <item>-0.004224159033803687</item>
+            <item>0.03233489276764886</item>
+            <item>1.0</item>
+        </row>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="vehicle">gloveBottom.gloveFist</property>
+    <property name="isPivotShowing">false</property>
+    <property name="eventsStopAscending"/>
+    <property name="isBoundingBoxShowing">false</property>
+    <property name="isBoundingSphereShowing">false</property>
+    <property name="script"/>
+    <property name="responses"/>
+    <property name="behaviors"/>
+    <property name="variables"/>
+    <property name="questions"/>
+    <property name="textureMaps"/>
+    <property name="sounds"/>
+    <property name="geometries"/>
+    <property name="misc"/>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

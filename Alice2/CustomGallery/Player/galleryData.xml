@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <name>player</name>
+    <modeledby>Sarah Hatton</modeledby>
+    <paintedby>Sarah Hatton</paintedby>
+    <parts>18</parts>
+    <physicalsize>1,06m x 1,6m x 0,31m</physicalsize>
+    <methods>
+        <method>focus flashlight</method>
+        <method>walkprep</method>
+        <method>walking anim</method>
+        <method>reset anim</method>
+    </methods>
+    <questions/>
+    <sounds>
+        <sound>weapon_revolver_shoot1</sound>
+        <sound>weapon_revolver_shoot2</sound>
+        <sound>weapon_revolver_shoot3</sound>
+    </sounds>
+</model>

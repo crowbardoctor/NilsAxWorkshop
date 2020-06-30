@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.response.DoTogether" version="2.001">
+    <child filename="__Unnamed0__"/>
+    <child filename="__Unnamed1__"/>
+    <child filename="__Unnamed2__"/>
+    <child filename="__Unnamed3__"/>
+    <child filename="__Unnamed4__"/>
+    <child filename="__Unnamed5__"/>
+    <child filename="__Unnamed6__"/>
+    <child filename="__Unnamed7__"/>
+    <child filename="__Unnamed8__"/>
+    <child filename="__Unnamed9__"/>
+    <child filename="__Unnamed10__"/>
+    <child filename="__Unnamed11__"/>
+    <child filename="__Unnamed12__"/>
+    <child filename="__Unnamed13__"/>
+    <child filename="__Unnamed14__"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Response" name="componentResponses">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed0__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed1__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed2__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed3__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed4__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed5__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed6__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed7__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed8__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed9__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed10__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed11__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed13__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed12__</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand.__Unnamed0__.__Unnamed14__</item>
+    </property>
+    <property class="java.lang.Double" name="duration">1.0</property>
+    <property name="isCommentedOut">false</property>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Sound"
+    name="weapon_revolver_shoot3" version="2.001">
+    <property durationHint="9.197278976" name="dataSource">java.io.File[weapon_revolver_shoot3.WAV]</property>
+    <property class="java.lang.Integer" name="mediaLockCacheCountHint">1</property>
+    <property name="markers"/>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.response.TurnAnimation" version="2.001">
+    <property class="edu.cmu.cs.stage3.alice.core.Direction" name="direction">edu.cmu.cs.stage3.alice.core.Direction[BACKWARD]</property>
+    <property class="java.lang.Double" name="amount">0.12</property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="subject">gloveBottom.gloveFist.middleKnuckle.middleBottom.middleMiddle.middleTop</property>
+    <property name="asSeenBy"/>
+    <property
+        class="edu.cmu.cs.stage3.alice.core.style.TraditionalAnimationStyle" name="style">edu.cmu.cs.stage3.alice.core.style.TraditionalAnimationStyle[BEGIN_AND_END_GENTLY]</property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="duration">openHand.duration</property>
+    <property name="isCommentedOut">false</property>
+    <property name="isFirstClass">false</property>
+    <property name="data">
+        <entry>
+            <key class="java.lang.String">edu.cmu.cs.stage3.alice.authoringtool.visibleProperties</key>
+            <value class="java.lang.String">subject,direction,amount,duration</value>
+        </entry>
+    </property>
+</element>

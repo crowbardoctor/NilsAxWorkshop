@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Model" name="zeus" version="2.001">
+    <child filename="__ita__"/>
+    <child filename="chest"/>
+    <child filename="leftLeg"/>
+    <child filename="rightLeg"/>
+    <child filename="zeusTexture"/>
+    <property name="color">
+        <red>1.0</red>
+        <green>1.0</green>
+        <blue>1.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property name="ambientColor">
+        <red>0.8667</red>
+        <green>0.8667</green>
+        <blue>0.8667</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="opacity">1.0</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.FillingStyle" name="fillingStyle">edu.cmu.cs.stage3.alice.scenegraph.FillingStyle[SOLID]</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle" name="shadingStyle">edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle[SMOOTH]</property>
+    <property name="specularHighlightColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="specularHighlightExponent">0.0</property>
+    <property name="emissiveColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="diffuseColorMap">zeusTexture</property>
+    <property name="opacityMap"/>
+    <property name="emissiveColorMap"/>
+    <property name="specularHighlightColorMap"/>
+    <property name="bumpMap"/>
+    <property name="detailMap"/>
+    <property name="interactionMap"/>
+    <property name="visualScale">
+        <row>
+            <item>0.004354765857042021</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.004354765857042016</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>0.00435476585704202</item>
+        </row>
+    </property>
+    <property name="isShowing">true</property>
+    <property name="disabledAffectors"/>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="geometry">__ita__</property>
+    <property name="visualization"/>
+    <property
+        componentClass="edu.cmu.cs.stage3.alice.core.Transformable" name="parts">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">chest</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">leftLeg</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">rightLeg</item>
+    </property>
+    <property name="poses"/>
+    <property name="localTransformation">
+        <row>
+            <item>1.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>1.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>1.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>1.0</item>
+        </row>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.ExternalReferenceKeyedCriterion" name="vehicle">.</property>
+    <property name="isPivotShowing">false</property>
+    <property name="eventsStopAscending"/>
+    <property name="isBoundingBoxShowing">false</property>
+    <property name="isBoundingSphereShowing">false</property>
+    <property name="script"/>
+    <property name="responses"/>
+    <property name="behaviors"/>
+    <property name="variables"/>
+    <property name="questions"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.TextureMap" name="textureMaps">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">zeusTexture</item>
+    </property>
+    <property name="sounds"/>
+    <property name="geometries"/>
+    <property name="misc"/>
+    <property name="isFirstClass">true</property>
+    <property name="data"/>
+</element>

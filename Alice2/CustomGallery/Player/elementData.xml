@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Model" name="player" version="2.001">
+    <child filename="__ita__"/>
+    <child filename="leftThigh"/>
+    <child filename="rightThigh"/>
+    <child filename="torso"/>
+    <child filename="3 - Default_CL"/>
+    <child filename="balet"/>
+    <child filename="focus flashlight"/>
+    <child filename="walkprep"/>
+    <child filename="walking anim"/>
+    <child filename="t-pose"/>
+    <child filename="pose1"/>
+    <child filename="reset anim"/>
+    <child filename="weapon_revolver_shoot1"/>
+    <child filename="weapon_revolver_shoot2"/>
+    <child filename="weapon_revolver_shoot3"/>
+    <property name="color">
+        <red>0.2509804</red>
+        <green>0.2509804</green>
+        <blue>0.2509804</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property name="ambientColor">
+        <red>1.0</red>
+        <green>1.0</green>
+        <blue>1.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="opacity">1.0</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.FillingStyle" name="fillingStyle">edu.cmu.cs.stage3.alice.scenegraph.FillingStyle[SOLID]</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle" name="shadingStyle">edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle[SMOOTH]</property>
+    <property name="specularHighlightColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="specularHighlightExponent">0.0</property>
+    <property name="emissiveColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="diffuseColorMap">balet</property>
+    <property name="opacityMap"/>
+    <property name="emissiveColorMap"/>
+    <property name="specularHighlightColorMap"/>
+    <property name="bumpMap"/>
+    <property name="detailMap"/>
+    <property name="interactionMap"/>
+    <property name="visualScale">
+        <row>
+            <item>0.050000000000000044</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.050000000000000044</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>0.050000000000000044</item>
+        </row>
+    </property>
+    <property name="isShowing">true</property>
+    <property name="disabledAffectors"/>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="geometry">__ita__</property>
+    <property name="visualization"/>
+    <property
+        componentClass="edu.cmu.cs.stage3.alice.core.Transformable" name="parts">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">leftThigh</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">rightThigh</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">torso</item>
+    </property>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Pose" name="poses">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">t-pose</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">pose1</item>
+    </property>
+    <property name="localTransformation">
+        <row>
+            <item>1.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>1.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>-5.551115123125783E-17</item>
+            <item>0.0</item>
+            <item>1.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>3.3306690738754696E-16</item>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>1.0</item>
+        </row>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.ExternalReferenceKeyedCriterion" name="vehicle"><![CDATA[dummy's.player_dummy]]></property>
+    <property name="isPivotShowing">false</property>
+    <property name="eventsStopAscending"/>
+    <property name="isBoundingBoxShowing">false</property>
+    <property name="isBoundingSphereShowing">false</property>
+    <property name="script"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Response" name="responses">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion"><![CDATA[focus flashlight]]></item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">walkprep</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion"><![CDATA[walking anim]]></item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion"><![CDATA[reset anim]]></item>
+    </property>
+    <property name="behaviors"/>
+    <property name="variables"/>
+    <property name="questions"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.TextureMap" name="textureMaps">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion"><![CDATA[3 - Default_CL]]></item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">balet</item>
+    </property>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Sound" name="sounds">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">weapon_revolver_shoot1</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">weapon_revolver_shoot2</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">weapon_revolver_shoot3</item>
+    </property>
+    <property name="geometries"/>
+    <property name="misc"/>
+    <property name="isFirstClass">true</property>
+    <property name="data">
+        <entry>
+            <key class="java.lang.String"><![CDATA[painted by]]></key>
+            <value class="java.lang.String"><![CDATA[Sarah Hatton]]></value>
+        </entry>
+        <entry>
+            <key class="java.lang.String"><![CDATA[modeled by]]></key>
+            <value class="java.lang.String"><![CDATA[Sarah Hatton]]></value>
+        </entry>
+    </property>
+</element>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element
+    class="edu.cmu.cs.stage3.alice.core.geometry.IndexedTriangleArray"
+    name="__ita__" version="2.001">
+    <property name="indices">java.io.File[indices.bin]</property>
+    <property name="vertices">java.io.File[vertices.bin]</property>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

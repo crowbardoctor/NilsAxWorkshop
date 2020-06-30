@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Variable" name="duration" version="2.001">
+    <property class="java.lang.Double" name="value">0.25</property>
+    <property name="valueClass">java.lang.Number</property>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

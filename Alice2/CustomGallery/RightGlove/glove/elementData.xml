@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Model" name="glove" version="2.001">
+    <property name="color">
+        <red>1.0</red>
+        <green>1.0</green>
+        <blue>1.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property name="ambientColor"/>
+    <property class="java.lang.Double" name="opacity">1.0</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.FillingStyle" name="fillingStyle">edu.cmu.cs.stage3.alice.scenegraph.FillingStyle[SOLID]</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle" name="shadingStyle">edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle[SMOOTH]</property>
+    <property name="specularHighlightColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="specularHighlightExponent">0.0</property>
+    <property name="emissiveColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="diffuseColorMap"><![CDATA[newglove_3 - Default_CL]]></property>
+    <property name="opacityMap"/>
+    <property name="emissiveColorMap"/>
+    <property name="specularHighlightColorMap"/>
+    <property name="bumpMap"/>
+    <property name="detailMap"/>
+    <property name="interactionMap"/>
+    <property name="visualScale">
+        <row>
+            <item>9.600000000000017</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>9.600000000000003</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>9.600000000000009</item>
+        </row>
+    </property>
+    <property name="isShowing">true</property>
+    <property name="disabledAffectors"/>
+    <property name="geometry"/>
+    <property name="visualization"/>
+    <property name="parts"/>
+    <property name="poses"/>
+    <property name="localTransformation">
+        <row>
+            <item>1.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>6.123031769111886E-17</item>
+            <item>-1.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>1.0</item>
+            <item>6.123031769111886E-17</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0536445641622817</item>
+            <item>0.13762247219199483</item>
+            <item>-0.0016270456511786886</item>
+            <item>1.0</item>
+        </row>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="vehicle">.</property>
+    <property name="isPivotShowing">false</property>
+    <property name="eventsStopAscending"/>
+    <property name="isBoundingBoxShowing">false</property>
+    <property name="isBoundingSphereShowing">false</property>
+    <property name="script"/>
+    <property name="responses"/>
+    <property name="behaviors"/>
+    <property name="variables"/>
+    <property name="questions"/>
+    <property name="textureMaps"/>
+    <property name="sounds"/>
+    <property name="geometries"/>
+    <property name="misc"/>
+    <property name="isFirstClass">false</property>
+    <property name="data"/>
+</element>

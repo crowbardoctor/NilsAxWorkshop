@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <name>rightGlove</name>
+    <modeledby>Sabrina Haskell</modeledby>
+    <paintedby>Dave Hurwich</paintedby>
+    <parts>22</parts>
+    <physicalsize>0,29m x 0,91m x 0,19m</physicalsize>
+    <methods>
+        <method>closeHand</method>
+        <method>openHand</method>
+    </methods>
+    <questions/>
+    <sounds/>
+</model>

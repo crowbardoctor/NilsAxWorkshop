@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element class="edu.cmu.cs.stage3.alice.core.Model" name="rightGlove" version="2.001">
+    <child filename="glove"/>
+    <child filename="gloveBottom"/>
+    <child filename="closeHand"/>
+    <child filename="openHand"/>
+    <child filename="newglove_3 - Default_CL"/>
+    <property name="color">
+        <red>1.0</red>
+        <green>1.0</green>
+        <blue>1.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property name="ambientColor"/>
+    <property class="java.lang.Double" name="opacity">1.0</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.FillingStyle" name="fillingStyle">edu.cmu.cs.stage3.alice.scenegraph.FillingStyle[SOLID]</property>
+    <property class="edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle" name="shadingStyle">edu.cmu.cs.stage3.alice.scenegraph.ShadingStyle[SMOOTH]</property>
+    <property name="specularHighlightColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property class="java.lang.Double" name="specularHighlightExponent">0.0</property>
+    <property name="emissiveColor">
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <alpha>1.0</alpha>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion" name="diffuseColorMap"><![CDATA[newglove_3 - Default_CL]]></property>
+    <property name="opacityMap"/>
+    <property name="emissiveColorMap"/>
+    <property name="specularHighlightColorMap"/>
+    <property name="bumpMap"/>
+    <property name="detailMap"/>
+    <property name="interactionMap"/>
+    <property name="visualScale">
+        <row>
+            <item>9.600000000000017</item>
+            <item>0.0</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>9.600000000000003</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.0</item>
+            <item>0.0</item>
+            <item>9.600000000000009</item>
+        </row>
+    </property>
+    <property name="isShowing">true</property>
+    <property name="disabledAffectors"/>
+    <property name="geometry"/>
+    <property name="visualization"/>
+    <property
+        componentClass="edu.cmu.cs.stage3.alice.core.Transformable" name="parts">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">glove</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">gloveBottom</item>
+    </property>
+    <property name="poses"/>
+    <property name="localTransformation">
+        <row>
+            <item>0.12176413168737166</item>
+            <item>0.06893872750240293</item>
+            <item>-0.990162103539722</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>0.9845767279105313</item>
+            <item>-0.1346525910652261</item>
+            <item>0.11170229358112937</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>-0.12562725139415154</item>
+            <item>-0.9884918752243959</item>
+            <item>-0.08427134542101822</item>
+            <item>0.0</item>
+        </row>
+        <row>
+            <item>9.824036810527587E-15</item>
+            <item>-2.0780313530407176E-13</item>
+            <item>-7.545147647622198E-15</item>
+            <item>1.0</item>
+        </row>
+    </property>
+    <property
+        criterionClass="edu.cmu.cs.stage3.alice.core.criterion.ExternalReferenceKeyedCriterion" name="vehicle">rightArm.palm</property>
+    <property name="isPivotShowing">false</property>
+    <property name="eventsStopAscending"/>
+    <property name="isBoundingBoxShowing">false</property>
+    <property name="isBoundingSphereShowing">false</property>
+    <property name="script"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.Response" name="responses">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">closeHand</item>
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion">openHand</item>
+    </property>
+    <property name="behaviors"/>
+    <property name="variables"/>
+    <property name="questions"/>
+    <property componentClass="edu.cmu.cs.stage3.alice.core.TextureMap" name="textureMaps">
+        <item criterionClass="edu.cmu.cs.stage3.alice.core.criterion.InternalReferenceKeyedCriterion"><![CDATA[newglove_3 - Default_CL]]></item>
+    </property>
+    <property name="sounds"/>
+    <property name="geometries"/>
+    <property name="misc"/>
+    <property name="isFirstClass">true</property>
+    <property name="data">
+        <entry>
+            <key class="java.lang.String"><![CDATA[painted by]]></key>
+            <value class="java.lang.String"><![CDATA[Dave Hurwich]]></value>
+        </entry>
+        <entry>
+            <key class="java.lang.String"><![CDATA[modeled by]]></key>
+            <value class="java.lang.String"><![CDATA[Sabrina Haskell]]></value>
+        </entry>
+    </property>
+</element>
