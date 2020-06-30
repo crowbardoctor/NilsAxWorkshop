@@ -1,0 +1,1747 @@
+﻿Root
+{
+    "ID" "1"
+    "IsSelected" "False"
+    "ParentID" ""
+    EntityData
+    {
+        "wad" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike\de_aztec.wad"
+        "Name" "worldspawn"
+        "Flags" "0"
+    }
+    PointEntityGameDataBoundingBoxProvider
+    {
+    }
+    VisgroupHidden
+    {
+        "IsHidden" "False"
+    }
+    Solid
+    {
+        "ID" "2"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 222 243"
+        }
+        Face
+        {
+            "ID" "1"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "2560"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "-2560 -2560 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -2560 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -2560 -512"
+            }
+            Vertex
+            {
+                "Position" "-2560 -2560 -512"
+            }
+        }
+        Face
+        {
+            "ID" "2"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "-512.0001"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "2560 -512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -512.0001 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 -512.0001 -512"
+            }
+        }
+        Face
+        {
+            "ID" "3"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "2560"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "-2560 -512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -2560 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -2560 -512"
+            }
+            Vertex
+            {
+                "Position" "-2560 -512.0001 -512"
+            }
+        }
+        Face
+        {
+            "ID" "4"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "2560"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "2560 -2560 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -512.0001 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 -2560 -512"
+            }
+        }
+        Face
+        {
+            "ID" "6"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "-2560 -2560 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 -2560 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 -512.0001 -512"
+            }
+            Vertex
+            {
+                "Position" "-2560 -512.0001 -512"
+            }
+        }
+        Face
+        {
+            "ID" "5"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "-448"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "-2560 -512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -2560 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -2560 -448"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "3"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 222 243"
+        }
+        Face
+        {
+            "ID" "7"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "511.999878"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "-2560 -511.9999 -448"
+            }
+            Vertex
+            {
+                "Position" "0 -511.9999 -448"
+            }
+            Vertex
+            {
+                "Position" "0 -511.9999 -512"
+            }
+            Vertex
+            {
+                "Position" "-2560 -511.9999 -512"
+            }
+        }
+        Face
+        {
+            "ID" "8"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "1536"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 1536 -512"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -512"
+            }
+        }
+        Face
+        {
+            "ID" "9"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "2560"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "-0.000244140625"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "-2560 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -511.9999 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -511.9999 -512"
+            }
+            Vertex
+            {
+                "Position" "-2560 1536 -512"
+            }
+        }
+        Face
+        {
+            "ID" "10"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "0"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0.000244140625"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "0 -511.9999 -448"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -512"
+            }
+            Vertex
+            {
+                "Position" "0 -511.9999 -512"
+            }
+        }
+        Face
+        {
+            "ID" "11"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "-448"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "-2560 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "0 -511.9999 -448"
+            }
+            Vertex
+            {
+                "Position" "-2560 -511.9999 -448"
+            }
+        }
+        Face
+        {
+            "ID" "12"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "-2560 -511.9999 -512"
+            }
+            Vertex
+            {
+                "Position" "0 -511.9999 -512"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -512"
+            }
+            Vertex
+            {
+                "Position" "-2560 1536 -512"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "4"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 222 243"
+        }
+        Face
+        {
+            "ID" "98"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -384"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "99"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 512 -352"
+            }
+            Vertex
+            {
+                "Position" "416 512 -384"
+            }
+            Vertex
+            {
+                "Position" "416 512 -448"
+            }
+            Vertex
+            {
+                "Position" "768 512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "100"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-416"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "-0.000244140625"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "416 512 -384"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -384"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "416 512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "101"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "768"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0.000244140625"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 512 -416"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "102"
+            Plane
+            {
+                "Normal" "-0.09053575 0 0.9958932"
+                "DistanceFromOrigin" "-420.085876"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "416 512 -384"
+            }
+            Vertex
+            {
+                "Position" "768 512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -384"
+            }
+        }
+        Face
+        {
+            "ID" "103"
+            Plane
+            {
+                "Normal" "0.09053575 0 -0.9958932"
+                "DistanceFromOrigin" "483.823059"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "768 512 -416"
+            }
+            Vertex
+            {
+                "Position" "416 512 -448"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "5"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 222 243"
+        }
+        Face
+        {
+            "ID" "19"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-512.000061"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "0 512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 512.0001 -512"
+            }
+            Vertex
+            {
+                "Position" "0 512.0001 -512"
+            }
+        }
+        Face
+        {
+            "ID" "20"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "1536"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "2560 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 1536 -512"
+            }
+        }
+        Face
+        {
+            "ID" "21"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "0"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "-0.000244140625"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "0 512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "0 512.0001 -512"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -512"
+            }
+        }
+        Face
+        {
+            "ID" "22"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "2560"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0.000244140625"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "2560 512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 1536 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 512.0001 -512"
+            }
+        }
+        Face
+        {
+            "ID" "23"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "-448"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 1536 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 512.0001 -448"
+            }
+            Vertex
+            {
+                "Position" "0 512.0001 -448"
+            }
+        }
+        Face
+        {
+            "ID" "24"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "0 512.0001 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 512.0001 -512"
+            }
+            Vertex
+            {
+                "Position" "2560 1536 -512"
+            }
+            Vertex
+            {
+                "Position" "0 1536 -512"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "7"
+        "IsSelected" "True"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 248 253"
+        }
+        Face
+        {
+            "ID" "37"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-32"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "38"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-32"
+            }
+            Vertex
+            {
+                "Position" "2560 512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 512 -416"
+            }
+            Vertex
+            {
+                "Position" "2560 512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "39"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-768"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-32"
+            }
+            Vertex
+            {
+                "Position" "768 512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "768 512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "40"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "2560"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "-32"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 512 -416"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "41"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "-352"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+        }
+        Face
+        {
+            "ID" "42"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "416"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "2560 512 -416"
+            }
+            Vertex
+            {
+                "Position" "768 512 -416"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "8"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 254 174"
+        }
+        Face
+        {
+            "ID" "49"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "448"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -832 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -832 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "50"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "-512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "51"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-768"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -832 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "52"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "2560"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "2560 -832 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "53"
+            Plane
+            {
+                "Normal" "0 -0.2873479 0.9578263"
+                "DistanceFromOrigin" "-190.03273"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "2560 -832 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -832 -448"
+            }
+        }
+        Face
+        {
+            "ID" "54"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "-512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "2560 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "9"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 156 135"
+        }
+        Face
+        {
+            "ID" "76"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "-512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -512"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+        }
+        Face
+        {
+            "ID" "77"
+            Plane
+            {
+                "Normal" "-0.3846154 -0.9230769 0"
+                "DistanceFromOrigin" "472.6154"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -832 -448"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -512"
+            }
+        }
+        Face
+        {
+            "ID" "78"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "768"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "768 -832 -448"
+            }
+        }
+        Face
+        {
+            "ID" "79"
+            Plane
+            {
+                "Normal" "-0.1188793 -0.2853102 0.9510341"
+                "DistanceFromOrigin" "-279.984436"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -352"
+            }
+            Vertex
+            {
+                "Position" "768 -832 -448"
+            }
+        }
+        Face
+        {
+            "ID" "80"
+            Plane
+            {
+                "Normal" "0.1234286 0.09874287 -0.9874286"
+                "DistanceFromOrigin" "455.0071"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "0"
+                "YScale" "2"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "768 -832 -448"
+            }
+            Vertex
+            {
+                "Position" "768 -512 -416"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -512"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "10"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 222 243"
+        }
+        Face
+        {
+            "ID" "93"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "-1.52587891E-05"
+                "YScale" "2"
+                "YShift" "-16"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -384"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "94"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "1.52587891E-05"
+                "YScale" "2"
+                "YShift" "-16"
+            }
+            Vertex
+            {
+                "Position" "416 512 -384"
+            }
+            Vertex
+            {
+                "Position" "0 512 -448"
+            }
+            Vertex
+            {
+                "Position" "416 512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "95"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "416"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "2"
+                "XShift" "0.000244140625"
+                "YScale" "2"
+                "YShift" "-16"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -384"
+            }
+            Vertex
+            {
+                "Position" "416 512 -384"
+            }
+            Vertex
+            {
+                "Position" "416 512 -448"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "96"
+            Plane
+            {
+                "Normal" "-0.1520572 0 0.9883717"
+                "DistanceFromOrigin" "-442.7905"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "-1.52587891E-05"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "0 512 -448"
+            }
+            Vertex
+            {
+                "Position" "416 512 -384"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -384"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -448"
+            }
+        }
+        Face
+        {
+            "ID" "97"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "448"
+            }
+            Texture
+            {
+                "Name" "azgrass"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "2"
+                "XShift" "1.52587891E-05"
+                "YScale" "2"
+                "YShift" "-0.000244140625"
+            }
+            Vertex
+            {
+                "Position" "0 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "416 -512 -448"
+            }
+            Vertex
+            {
+                "Position" "416 512 -448"
+            }
+            Vertex
+            {
+                "Position" "0 512 -448"
+            }
+        }
+    }
+}
+Grid
+{
+    "SnapToGrid" "True"
+}
+Selection
+{
+    "SelectedObjects" "7"
+}
+FaceSelection
+{
+    "SelectedFaces" ""
+}
+ActiveTexture
+{
+    "Name" "azgrass"
+}

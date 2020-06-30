@@ -1,0 +1,236 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_05.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_radiator_springs_05/nature/blendsandsand008b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 74 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_05.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (159620 bytes)
+Error! prop_static using model "models/props_vehicles/tire001c_car.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_vehicles/tire001c_car.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 46
+Reduced 15 texdatas to 14 (382 bytes to 357)
+Writing C:\mapsrc\gm_radiator_springs_05.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_05.bsp
+reading c:\mapsrc\gm_radiator_springs_05.prt
+1023 portalclusters
+3237 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 6648 visible clusters (0.66%)
+Total clusters visible: 1003485
+Average clusters visible: 980
+Building PAS...
+Average clusters audible: 1023
+visdatasize:269754  compressed from 261888
+writing c:\mapsrc\gm_radiator_springs_05.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_05.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_radiator_springs_05/nature/blendsandsand008b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 74 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_05.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (159620 bytes)
+Error! prop_static using model "models/props_vehicles/tire001c_car.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_vehicles/tire001c_car.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 46
+Reduced 15 texdatas to 14 (382 bytes to 357)
+Writing C:\mapsrc\gm_radiator_springs_05.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_05.bsp
+reading c:\mapsrc\gm_radiator_springs_05.prt
+1023 portalclusters
+3237 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 6648 visible clusters (0.66%)
+Total clusters visible: 1003485
+Average clusters visible: 980
+Building PAS...
+Average clusters audible: 1023
+visdatasize:269754  compressed from 261888
+writing c:\mapsrc\gm_radiator_springs_05.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_05.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_radiator_springs_05/nature/blendsandsand008b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 74 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_05.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (159620 bytes)
+Error! prop_static using model "models/props_vehicles/tire001c_car.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_vehicles/tire001c_car.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 46
+Reduced 15 texdatas to 14 (382 bytes to 357)
+Writing C:\mapsrc\gm_radiator_springs_05.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_radiator_springs_05.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_radiator_springs_05/nature/blendsandsand008b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 74 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\gm_radiator_springs_05.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (159620 bytes)
+Error! prop_static using model "models/props_vehicles/tire001c_car.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_vehicles/tire001c_car.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 46
+Reduced 15 texdatas to 14 (382 bytes to 357)
+Writing C:\mapsrc\gm_radiator_springs_05.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading c:\mapsrc\gm_radiator_springs_05.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_radiator_springs_05/nature/blendsandsand008b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 74 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\gm_radiator_springs_05.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (159620 bytes)
+Error! prop_static using model "models/props_vehicles/tire001c_car.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_vehicles/tire001c_car.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 46
+Reduced 15 texdatas to 14 (382 bytes to 357)
+Writing c:\mapsrc\gm_radiator_springs_05.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_radiator_springs_05.bsp
+reading c:\mapsrc\gm_radiator_springs_05.prt
+1023 portalclusters
+3237 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...

@@ -1,0 +1,193 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...Wrote C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin
+Areaportal leak ! File: C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin 
+Brush 1164: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12856 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 14 texinfos to 9
+Reduced 5 texdatas to 5 (115 bytes to 115)
+Writing C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.bsp
+reading c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.prt
+LoadPortals: couldn't read c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...Wrote C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin
+Areaportal leak ! File: C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin 
+Brush 1164: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12856 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 14 texinfos to 9
+Reduced 5 texdatas to 5 (115 bytes to 115)
+Writing C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.bsp
+reading c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.prt
+LoadPortals: couldn't read c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...Wrote C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin
+Areaportal leak ! File: C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin 
+Brush 1164: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13205 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 17 texinfos to 10
+Reduced 6 texdatas to 6 (133 bytes to 133)
+Writing C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.bsp
+reading c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.prt
+LoadPortals: couldn't read c:\mapsrc\gm_lbs_helsingborg_from_scratch_02.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\hl2\materials
+Loading C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 singleplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...Wrote C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin
+Areaportal leak ! File: C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.lin 
+Brush 1164: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+
+Brush 1150: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13205 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 17 texinfos to 10
+Reduced 6 texdatas to 6 (133 bytes to 133)
+Writing C:\mapsrc\gm_lbs_helsingborg_from_scratch_02.bsp
+0 seconds elapsed

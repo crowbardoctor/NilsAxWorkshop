@@ -1,0 +1,1708 @@
+﻿Root
+{
+    "ID" "1"
+    "IsSelected" "False"
+    "ParentID" ""
+    EntityData
+    {
+        "wad" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike\de_vertigo.wad"
+        "Name" "worldspawn"
+        "Flags" "0"
+    }
+    PointEntityGameDataBoundingBoxProvider
+    {
+    }
+    VisgroupHidden
+    {
+        "IsHidden" "False"
+    }
+    Solid
+    {
+        "ID" "2"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 197 151"
+        }
+        Face
+        {
+            "ID" "1"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-2048"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2048 64"
+            }
+            Vertex
+            {
+                "Position" "512 2048 64"
+            }
+            Vertex
+            {
+                "Position" "512 2048 32"
+            }
+            Vertex
+            {
+                "Position" "256 2048 32"
+            }
+        }
+        Face
+        {
+            "ID" "2"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "2304"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+            Vertex
+            {
+                "Position" "256 2304 32"
+            }
+            Vertex
+            {
+                "Position" "512 2304 32"
+            }
+        }
+        Face
+        {
+            "ID" "3"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+            Vertex
+            {
+                "Position" "256 2048 64"
+            }
+            Vertex
+            {
+                "Position" "256 2048 32"
+            }
+            Vertex
+            {
+                "Position" "256 2304 32"
+            }
+        }
+        Face
+        {
+            "ID" "4"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2048 64"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+            Vertex
+            {
+                "Position" "512 2304 32"
+            }
+            Vertex
+            {
+                "Position" "512 2048 32"
+            }
+        }
+        Face
+        {
+            "ID" "5"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "64"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+            Vertex
+            {
+                "Position" "512 2048 64"
+            }
+            Vertex
+            {
+                "Position" "256 2048 64"
+            }
+        }
+        Face
+        {
+            "ID" "6"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "-32"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2048 32"
+            }
+            Vertex
+            {
+                "Position" "512 2048 32"
+            }
+            Vertex
+            {
+                "Position" "512 2304 32"
+            }
+            Vertex
+            {
+                "Position" "256 2304 32"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "3"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 210 240"
+        }
+        Face
+        {
+            "ID" "7"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-2080"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2080 256"
+            }
+            Vertex
+            {
+                "Position" "288 2080 256"
+            }
+            Vertex
+            {
+                "Position" "288 2080 64"
+            }
+            Vertex
+            {
+                "Position" "256 2080 64"
+            }
+        }
+        Face
+        {
+            "ID" "8"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "2272"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "288 2272 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+            Vertex
+            {
+                "Position" "288 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "9"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+            Vertex
+            {
+                "Position" "256 2080 256"
+            }
+            Vertex
+            {
+                "Position" "256 2080 64"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "10"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "288"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "288 2080 256"
+            }
+            Vertex
+            {
+                "Position" "288 2272 256"
+            }
+            Vertex
+            {
+                "Position" "288 2272 64"
+            }
+            Vertex
+            {
+                "Position" "288 2080 64"
+            }
+        }
+        Face
+        {
+            "ID" "11"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+            Vertex
+            {
+                "Position" "288 2272 256"
+            }
+            Vertex
+            {
+                "Position" "288 2080 256"
+            }
+            Vertex
+            {
+                "Position" "256 2080 256"
+            }
+        }
+        Face
+        {
+            "ID" "12"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "-64"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2080 64"
+            }
+            Vertex
+            {
+                "Position" "288 2080 64"
+            }
+            Vertex
+            {
+                "Position" "288 2272 64"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "4"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 217 193"
+        }
+        Face
+        {
+            "ID" "13"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-2048"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2048 288"
+            }
+            Vertex
+            {
+                "Position" "512 2048 288"
+            }
+            Vertex
+            {
+                "Position" "512 2048 256"
+            }
+            Vertex
+            {
+                "Position" "256 2048 256"
+            }
+        }
+        Face
+        {
+            "ID" "14"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "2304"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2304 288"
+            }
+            Vertex
+            {
+                "Position" "256 2304 288"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+        }
+        Face
+        {
+            "ID" "15"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 288"
+            }
+            Vertex
+            {
+                "Position" "256 2048 288"
+            }
+            Vertex
+            {
+                "Position" "256 2048 256"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+        }
+        Face
+        {
+            "ID" "16"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2048 288"
+            }
+            Vertex
+            {
+                "Position" "512 2304 288"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2048 256"
+            }
+        }
+        Face
+        {
+            "ID" "17"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "288"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 288"
+            }
+            Vertex
+            {
+                "Position" "512 2304 288"
+            }
+            Vertex
+            {
+                "Position" "512 2048 288"
+            }
+            Vertex
+            {
+                "Position" "256 2048 288"
+            }
+        }
+        Face
+        {
+            "ID" "18"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "-256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2048 256"
+            }
+            Vertex
+            {
+                "Position" "512 2048 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "5"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 157 174"
+        }
+        Face
+        {
+            "ID" "19"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-2272"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "20"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "2304"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+        }
+        Face
+        {
+            "ID" "21"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+        }
+        Face
+        {
+            "ID" "22"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "23"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+        }
+        Face
+        {
+            "ID" "24"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "-64"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "6"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 180 242"
+        }
+        Face
+        {
+            "ID" "25"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-2272"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "26"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "2304"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+        }
+        Face
+        {
+            "ID" "27"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+        }
+        Face
+        {
+            "ID" "28"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "29"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2304 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "256 2272 256"
+            }
+        }
+        Face
+        {
+            "ID" "30"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "-64"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2272 64"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+            Vertex
+            {
+                "Position" "512 2304 64"
+            }
+            Vertex
+            {
+                "Position" "256 2304 64"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "7"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 150 131"
+        }
+        Face
+        {
+            "ID" "31"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-2048"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2048 256"
+            }
+            Vertex
+            {
+                "Position" "512 2048 256"
+            }
+            Vertex
+            {
+                "Position" "512 2048 64"
+            }
+            Vertex
+            {
+                "Position" "256 2048 64"
+            }
+        }
+        Face
+        {
+            "ID" "32"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "2080"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2080 256"
+            }
+            Vertex
+            {
+                "Position" "256 2080 256"
+            }
+            Vertex
+            {
+                "Position" "256 2080 64"
+            }
+            Vertex
+            {
+                "Position" "512 2080 64"
+            }
+        }
+        Face
+        {
+            "ID" "33"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2080 256"
+            }
+            Vertex
+            {
+                "Position" "256 2048 256"
+            }
+            Vertex
+            {
+                "Position" "256 2048 64"
+            }
+            Vertex
+            {
+                "Position" "256 2080 64"
+            }
+        }
+        Face
+        {
+            "ID" "34"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2048 256"
+            }
+            Vertex
+            {
+                "Position" "512 2080 256"
+            }
+            Vertex
+            {
+                "Position" "512 2080 64"
+            }
+            Vertex
+            {
+                "Position" "512 2048 64"
+            }
+        }
+        Face
+        {
+            "ID" "35"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2080 256"
+            }
+            Vertex
+            {
+                "Position" "512 2080 256"
+            }
+            Vertex
+            {
+                "Position" "512 2048 256"
+            }
+            Vertex
+            {
+                "Position" "256 2048 256"
+            }
+        }
+        Face
+        {
+            "ID" "36"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "-64"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "256 2048 64"
+            }
+            Vertex
+            {
+                "Position" "512 2048 64"
+            }
+            Vertex
+            {
+                "Position" "512 2080 64"
+            }
+            Vertex
+            {
+                "Position" "256 2080 64"
+            }
+        }
+    }
+    Solid
+    {
+        "ID" "8"
+        "IsSelected" "False"
+        "ParentID" "1"
+        ObjectColor
+        {
+            "Color" "0 236 254"
+        }
+        Face
+        {
+            "ID" "37"
+            Plane
+            {
+                "Normal" "0 -1 0"
+                "DistanceFromOrigin" "-2080"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "480 2080 256"
+            }
+            Vertex
+            {
+                "Position" "512 2080 256"
+            }
+            Vertex
+            {
+                "Position" "512 2080 64"
+            }
+            Vertex
+            {
+                "Position" "480 2080 64"
+            }
+        }
+        Face
+        {
+            "ID" "38"
+            Plane
+            {
+                "Normal" "0 1 0"
+                "DistanceFromOrigin" "2272"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "480 2272 256"
+            }
+            Vertex
+            {
+                "Position" "480 2272 64"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "39"
+            Plane
+            {
+                "Normal" "-1 0 0"
+                "DistanceFromOrigin" "-480"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 -1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "480 2272 256"
+            }
+            Vertex
+            {
+                "Position" "480 2080 256"
+            }
+            Vertex
+            {
+                "Position" "480 2080 64"
+            }
+            Vertex
+            {
+                "Position" "480 2272 64"
+            }
+        }
+        Face
+        {
+            "ID" "40"
+            Plane
+            {
+                "Normal" "1 0 0"
+                "DistanceFromOrigin" "512"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "0 1 0"
+                "VAxis" "0 0 -1"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "512 2080 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+            Vertex
+            {
+                "Position" "512 2080 64"
+            }
+        }
+        Face
+        {
+            "ID" "41"
+            Plane
+            {
+                "Normal" "0 0 1"
+                "DistanceFromOrigin" "256"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "480 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2272 256"
+            }
+            Vertex
+            {
+                "Position" "512 2080 256"
+            }
+            Vertex
+            {
+                "Position" "480 2080 256"
+            }
+        }
+        Face
+        {
+            "ID" "42"
+            Plane
+            {
+                "Normal" "0 0 -1"
+                "DistanceFromOrigin" "-64"
+            }
+            Texture
+            {
+                "Name" "crete33"
+                "Rotation" "0"
+                "UAxis" "-1 0 0"
+                "VAxis" "0 -1 0"
+                "XScale" "1"
+                "XShift" "0"
+                "YScale" "1"
+                "YShift" "0"
+            }
+            Vertex
+            {
+                "Position" "480 2080 64"
+            }
+            Vertex
+            {
+                "Position" "512 2080 64"
+            }
+            Vertex
+            {
+                "Position" "512 2272 64"
+            }
+            Vertex
+            {
+                "Position" "480 2272 64"
+            }
+        }
+    }
+    Entity
+    {
+        "ID" "9"
+        "IsSelected" "False"
+        "ParentID" "1"
+        EntityData
+        {
+            "Name" "info_player_start"
+            "Flags" "0"
+        }
+        ObjectColor
+        {
+            "Color" "0 255 0"
+        }
+        Origin
+        {
+            "Location" "384 2202.72 128"
+        }
+        EntityModel
+        {
+            "Name" "models/player/gsg9/gsg9.mdl"
+        }
+    }
+    Entity
+    {
+        "ID" "10"
+        "IsSelected" "False"
+        "ParentID" "1"
+        EntityData
+        {
+            "_light" "255 255 255 255"
+            "style" ""
+            "pattern" ""
+            "_fade" "1.0"
+            "_falloff" ""
+            "targetname" ""
+            "target" ""
+            "pitch" "-90"
+            "_diffuse_light" "255 255 128 200"
+            "Name" "light_environment"
+            "Flags" "0"
+        }
+        ObjectColor
+        {
+            "Color" "0 255 0"
+        }
+        Origin
+        {
+            "Location" "416 2176 192"
+        }
+    }
+    Entity
+    {
+        "ID" "11"
+        "IsSelected" "False"
+        "ParentID" "1"
+        EntityData
+        {
+            "_light" "255 255 255 200"
+            "style" ""
+            "pattern" ""
+            "_fade" "1.0"
+            "_falloff" ""
+            "targetname" ""
+            "target" ""
+            "Name" "light"
+            "Flags" "0"
+        }
+        ObjectColor
+        {
+            "Color" "0 255 0"
+        }
+        Origin
+        {
+            "Location" "352 2208 192"
+        }
+        EntitySprite
+        {
+            "Name" "sprites/lightbulb.spr"
+            "Scale" "1"
+            "Color" "255 255 255"
+            "Width" "16"
+            "Height" "16"
+        }
+    }
+}
+Grid
+{
+    "SnapToGrid" "True"
+}
+Selection
+{
+    "SelectedObjects" ""
+}
+FaceSelection
+{
+    "SelectedFaces" ""
+}
+ActiveTexture
+{
+    "Name" "crete33"
+}
+Camera
+{
+    "EyePosition" "414.0746 2294.468 149.72"
+    "LookPosition" "403.6375 2277.765 153.1927"
+    "IsActive" "True"
+}
