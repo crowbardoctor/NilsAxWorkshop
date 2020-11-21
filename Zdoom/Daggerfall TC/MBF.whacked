@@ -1,0 +1,71 @@
+{
+    "engine": "tables_mbf", 
+    "windows": {
+        "weapons": {
+            "y": 104, 
+            "x": 104, 
+            "height": 425, 
+            "visible": 1, 
+            "width": 560
+        }, 
+        "par": {
+            "y": 26, 
+            "x": 26, 
+            "height": 380, 
+            "visible": 0, 
+            "width": 400
+        }, 
+        "things": {
+            "y": 0, 
+            "x": 0, 
+            "height": 700, 
+            "visible": 1, 
+            "width": 980
+        }, 
+        "misc": {
+            "y": 0, 
+            "x": 0, 
+            "height": 450, 
+            "visible": 0, 
+            "width": 420
+        }, 
+        "states": {
+            "y": 26, 
+            "x": 26, 
+            "height": 700, 
+            "visible": 1, 
+            "width": 872
+        }, 
+        "cheats": {
+            "y": 156, 
+            "x": 156, 
+            "height": 401, 
+            "visible": 0, 
+            "width": 340
+        }, 
+        "active": "things", 
+        "sounds": {
+            "y": 52, 
+            "x": 52, 
+            "height": 480, 
+            "visible": 0, 
+            "width": 430
+        }, 
+        "strings": {
+            "y": 78, 
+            "x": 78, 
+            "height": 480, 
+            "visible": 0, 
+            "width": 640
+        }, 
+        "ammo": {
+            "y": 130, 
+            "x": 130, 
+            "height": 250, 
+            "visible": 0, 
+            "width": 520
+        }
+    }, 
+    "pwads": [], 
+    "iwad": "F:\\Users\\nilsa\\Pictures\\doom editing\\slade\\zdoom\\projects\\Fallout (daggerfall like)\\DOOM2.WAD"
+}

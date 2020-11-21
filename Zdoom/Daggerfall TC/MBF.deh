@@ -1,0 +1,81 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.2.0 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Frame 67
+Duration = 1
+Sprite subnumber = 0
+Next frame = 67
+
+Frame 69
+Sprite subnumber = 0
+
+Frame 70
+Sprite subnumber = 0
+
+Frame 71
+Duration = 3
+Sprite subnumber = 1
+
+Frame 72
+Duration = 3
+Sprite subnumber = 2
+Next frame = 305
+
+Frame 304
+Next frame = 0
+
+Frame 305
+Duration = 3
+Sprite number = 11
+Sprite subnumber = 3
+
+Frame 306
+Duration = 3
+Next frame = 73
+Sprite number = 11
+Sprite subnumber = 4
+
+Frame 307
+Duration = -1
+Next frame = 0
+Sprite number = 138
+Sprite subnumber = 0
+
+Frame 308
+Duration = -1
+Next frame = 0
+Sprite number = 138
+Sprite subnumber = 0
+
+Frame 309
+Duration = -1
+Next frame = 0
+Sprite number = 138
+Sprite subnumber = 0
+
+Frame 310
+Duration = -1
+Sprite number = 138
+Sprite subnumber = 0
+
+Weapon 1 (Pistol)
+Ammo type = 5
+Shooting frame = 5
+Firing frame = 0
+
+[CODEPTR]
+FRAME 71 = Light0
+FRAME 305 = Saw
+FRAME 306 = Saw
+FRAME 307 = NULL
+FRAME 308 = NULL
+FRAME 309 = NULL
+FRAME 310 = NULL
+
+[STRINGS]
+HUSTR_1 = The white goa

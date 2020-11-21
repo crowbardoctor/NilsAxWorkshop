@@ -1,0 +1,73 @@
+Please put this in the Combos Directory. Thank You.
+===========================================================================
+Title                   : Samurai Sword
+Filename                : DT-SWORD.ZIP
+Date Finished           : Mid August, 1999
+Developer               : Don Tello
+Email Address           : gwhittl@ibm.net
+                          
+Other Releases          : Yes
+Misc. Developer Info    : "...wow. That's a lot of penis and anal references
+                           for one sentence..."
+                          "Thanks!"
+
+Description             : Replaces the chainsaw with a cool bloody samurai
+                          sword. Remember the scene in Pulp Fiction where
+                          Bruce Willis and his friend are being held
+                          prisoner in the pawn shop? Bruce passes up a
+                          shotgun, a chainsaw, then picks up a sword and
+                          proceeds to slash up the hillbillies who are taking
+                          turns anal-raping the black guy? Anyway, with this
+                          patch you can slash up some undead. Enjoy!
+                          Oh, and this sword does a lot more damage than the
+                          chainsaw used to.
+
+Additional Credits to   : id Software 
+                          3dRealms
+                                
+===========================================================================
+* Play Information *
+
+
+Required Engine         : Any Doom2 port will do.
+New Graphics            : 10 sprites. I hand drew the icon, as usual.
+New Patch               : Yes (required)
+New Sounds              : Yes
+Included Files          : Dt-sword.wad
+                          Dt-sword.deh
+
+Use                     : You should know by now....   
+
+
+
+* Construction *
+
+Base                    : Shadow Warrior Sprites, Modified by myself.
+Build Time              : about 30 min
+Editor(s) used          : Deutex 
+Known Bugs              : No
+May Not Run With...     : Doom 1
+
+
+* Copyright \ Permission *
+
+ I put some work into this (the pallette didn't convert well), so if you
+ use these graphics, please give me some credit. Thank you.
+
+
+
+
+* Where to get this WAD *
+
+  Ftp.cdrom.com\pub\idgames\combos\
+
+* Other Comments *
+
+  I have updated versions of DT-NME2 and DTCOG30 if anyone cares.
+
+  And be on the lookout for some more original art from me in the near
+  future. I have some more ideas for combo packs.
+
+
+=============================================================================
+Don Tello, August 14 1999
