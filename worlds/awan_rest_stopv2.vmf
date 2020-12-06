@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8506"
-	"mapversion" "687"
+	"mapversion" "719"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "2"
+	"nGridSpacing" "4"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "0"
-	"mapversion" "687"
+	"mapversion" "719"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -29864,9 +29864,9 @@ world
 		side
 		{
 			"id" "5271"
-			"plane" "(-1716 -2524 -64) (-1716 -2524 6) (-1716 -2588 6)"
+			"plane" "(-1716 -2528 6) (-1716 -2528 -4.76837e-07) (-1716 -2336 -4.76837e-07)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 -40] 0.5"
+			"uaxis" "[0 1 0 -32] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -29875,7 +29875,7 @@ world
 		side
 		{
 			"id" "5272"
-			"plane" "(-1716 -2588 6) (-1652 -2588 6) (-1652 -2588 -64)"
+			"plane" "(-1652 -2528 -4.76837e-07) (-1716 -2528 -4.76837e-07) (-1716 -2528 6)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -29886,10 +29886,10 @@ world
 		side
 		{
 			"id" "5273"
-			"plane" "(-1716 -2588 -64) (-1652 -2588 -64) (-1652 -2524 -64)"
+			"plane" "(-1652 -2336 -4.76837e-07) (-1716 -2336 -4.76837e-07) (-1716 -2528 -4.76837e-07)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
-			"vaxis" "[0 -1 0 40] 0.5"
+			"vaxis" "[0 -1 0 32] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -29897,10 +29897,10 @@ world
 		side
 		{
 			"id" "5274"
-			"plane" "(-1716 -2524 6) (-1652 -2524 6) (-1652 -2588 6)"
+			"plane" "(-1652 -2528 6) (-1716 -2528 6) (-1716 -2336 6)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
-			"vaxis" "[0 -1 0 40] 0.5"
+			"vaxis" "[0 -1 0 32] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -29908,7 +29908,7 @@ world
 		side
 		{
 			"id" "5275"
-			"plane" "(-1652 -2524 -64) (-1652 -2524 6) (-1716 -2524 6)"
+			"plane" "(-1716 -2336 6) (-1716 -2336 -4.76837e-07) (-1652 -2336 -4.76837e-07)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -29919,9 +29919,9 @@ world
 		side
 		{
 			"id" "5276"
-			"plane" "(-1652 -2588 6) (-1652 -2524 6) (-1652 -2524 -64)"
+			"plane" "(-1652 -2336 -4.76837e-07) (-1652 -2528 -4.76837e-07) (-1652 -2528 6)"
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 -40] 0.5"
+			"uaxis" "[0 1 0 -32] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -29940,7 +29940,7 @@ world
 		side
 		{
 			"id" "5283"
-			"plane" "(-1716 -2300 -64) (-1716 -2300 0) (-1716 -2524 0)"
+			"plane" "(-1716 -2588 0) (-1716 -2588 -64) (-1716 -2300 -64)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 -40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -29951,7 +29951,7 @@ world
 		side
 		{
 			"id" "5284"
-			"plane" "(-1716 -2524 0) (-1652 -2524 0) (-1652 -2524 -64)"
+			"plane" "(-1652 -2588 -64) (-1716 -2588 -64) (-1716 -2588 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -29962,7 +29962,7 @@ world
 		side
 		{
 			"id" "5285"
-			"plane" "(-1716 -2524 -64) (-1652 -2524 -64) (-1652 -2300 -64)"
+			"plane" "(-1652 -2300 -64) (-1716 -2300 -64) (-1716 -2588 -64)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 40] 0.5"
@@ -29973,7 +29973,7 @@ world
 		side
 		{
 			"id" "5286"
-			"plane" "(-1716 -2300 0) (-1652 -2300 0) (-1652 -2524 0)"
+			"plane" "(-1652 -2588 0) (-1716 -2588 0) (-1716 -2300 0)"
 			"material" "NILS_CUSTOM/AWAN/DESERTGRASS"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 40] 0.5"
@@ -29984,7 +29984,7 @@ world
 		side
 		{
 			"id" "5287"
-			"plane" "(-1652 -2300 -64) (-1652 -2300 0) (-1716 -2300 0)"
+			"plane" "(-1716 -2300 0) (-1716 -2300 -64) (-1652 -2300 -64)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -29995,7 +29995,7 @@ world
 		side
 		{
 			"id" "5288"
-			"plane" "(-1652 -2524 0) (-1652 -2300 0) (-1652 -2300 -64)"
+			"plane" "(-1652 -2300 -64) (-1652 -2588 -64) (-1652 -2588 0)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 -40] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
@@ -39112,158 +39112,6 @@ world
 	}
 	solid
 	{
-		"id" "5412"
-		side
-		{
-			"id" "7251"
-			"plane" "(-1876 -2624 36) (-1828 -2624 36) (-1828 -2636 36)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7250"
-			"plane" "(-1876 -2636 12) (-1828 -2636 12) (-1828 -2624 12)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7249"
-			"plane" "(-1876 -2624 36) (-1876 -2636 36) (-1876 -2636 12)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7248"
-			"plane" "(-1828 -2624 12) (-1828 -2636 12) (-1828 -2636 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7247"
-			"plane" "(-1828 -2624 36) (-1876 -2624 36) (-1876 -2624 12)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7246"
-			"plane" "(-1828 -2636 12) (-1876 -2636 12) (-1876 -2636 36)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 149 110"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "5419"
-		side
-		{
-			"id" "7257"
-			"plane" "(-1848 -2568 36) (-1848 -2556 36) (-1828 -2556 36)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7256"
-			"plane" "(-1848 -2556 12) (-1848 -2568 12) (-1828 -2568 12)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7255"
-			"plane" "(-1848 -2568 12) (-1848 -2556 12) (-1848 -2556 36)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7254"
-			"plane" "(-1828 -2556 12) (-1828 -2568 12) (-1828 -2568 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7253"
-			"plane" "(-1848 -2556 12) (-1828 -2556 12) (-1828 -2556 36)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7252"
-			"plane" "(-1828 -2568 12) (-1848 -2568 12) (-1848 -2568 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 -16] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 127 212"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
 		"id" "2957"
 		side
 		{
@@ -39876,7 +39724,7 @@ world
 		side
 		{
 			"id" "7311"
-			"plane" "(-1780 -2564 40) (-1780 -2564 12) (-1780 -2556 12)"
+			"plane" "(-1732 -2556 12) (-1736 -2556 32) (-1736 -2564 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[0 1 0 -40] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
@@ -39887,7 +39735,7 @@ world
 		side
 		{
 			"id" "7310"
-			"plane" "(-1716 -2564 12) (-1780 -2564 12) (-1780 -2564 40)"
+			"plane" "(-1736 -2564 32) (-1716 -2564 32) (-1716 -2564 12)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
@@ -39898,7 +39746,7 @@ world
 		side
 		{
 			"id" "7309"
-			"plane" "(-1716 -2556 12) (-1780 -2556 12) (-1780 -2564 12)"
+			"plane" "(-1732 -2564 12) (-1716 -2564 12) (-1716 -2556 12)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 8] 0.5"
@@ -39909,7 +39757,7 @@ world
 		side
 		{
 			"id" "7308"
-			"plane" "(-1716 -2564 40) (-1780 -2564 40) (-1780 -2556 40)"
+			"plane" "(-1736 -2556 32) (-1716 -2556 32) (-1716 -2564 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 -1 0 8] 0.5"
@@ -39920,7 +39768,7 @@ world
 		side
 		{
 			"id" "7307"
-			"plane" "(-1780 -2556 40) (-1780 -2556 12) (-1716 -2556 12)"
+			"plane" "(-1716 -2556 12) (-1716 -2556 32) (-1736 -2556 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[1 0 0 40] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
@@ -39931,7 +39779,7 @@ world
 		side
 		{
 			"id" "7306"
-			"plane" "(-1716 -2556 12) (-1716 -2564 12) (-1716 -2564 40)"
+			"plane" "(-1716 -2564 32) (-1716 -2556 32) (-1716 -2556 12)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[0 1 0 -40] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
@@ -39948,152 +39796,76 @@ world
 	}
 	solid
 	{
-		"id" "6027"
+		"id" "6057"
 		side
 		{
-			"id" "7502"
-			"plane" "(-1872 -2568 36) (-1872 -2556 36) (-1848 -2556 36)"
+			"id" "7536"
+			"plane" "(-1876 -2624 32) (-1876 -2624 12) (-1876 -2568 12)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 32] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
+			"uaxis" "[0 1 0 -40] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "7501"
-			"plane" "(-1872 -2556 32) (-1872 -2568 32) (-1848 -2568 32)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 32] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7500"
-			"plane" "(-1872 -2568 32) (-1872 -2556 32) (-1872 -2556 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7499"
-			"plane" "(-1848 -2556 32) (-1848 -2568 32) (-1848 -2568 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7498"
-			"plane" "(-1872 -2556 32) (-1848 -2556 32) (-1848 -2556 36)"
+			"id" "7535"
+			"plane" "(-1828 -2624 12) (-1876 -2624 12) (-1876 -2624 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 32] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"uaxis" "[1 0 0 40] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "7497"
-			"plane" "(-1848 -2568 32) (-1872 -2568 32) (-1872 -2568 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 32] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"id" "7534"
+			"plane" "(-1828 -2568 12) (-1876 -2568 12) (-1876 -2624 12)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 40] 0.5"
+			"vaxis" "[0 -1 0 8] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7533"
+			"plane" "(-1828 -2624 32) (-1876 -2624 32) (-1876 -2568 32)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 40] 0.5"
+			"vaxis" "[0 -1 0 8] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7532"
+			"plane" "(-1876 -2568 32) (-1876 -2568 12) (-1828 -2568 12)"
+			"material" "/METAL2"
+			"uaxis" "[1 0 0 40] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7531"
+			"plane" "(-1828 -2568 12) (-1828 -2624 12) (-1828 -2624 32)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[0 1 0 -40] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
 		{
-			"color" "0 127 212"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "6032"
-		side
-		{
-			"id" "7514"
-			"plane" "(-1876 -2556 34) (-1872 -2556 36) (-1872 -2568 36)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 48] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7513"
-			"plane" "(-1876 -2568 30) (-1872 -2568 32) (-1872 -2556 32)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 48] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7512"
-			"plane" "(-1876 -2556 30) (-1876 -2556 34) (-1876 -2568 34)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7511"
-			"plane" "(-1872 -2568 32) (-1872 -2568 36) (-1872 -2556 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7510"
-			"plane" "(-1872 -2556 32) (-1872 -2556 36) (-1876 -2556 34)"
-			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 48] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "7509"
-			"plane" "(-1876 -2568 30) (-1876 -2568 34) (-1872 -2568 36)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 48] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 127 212"
+			"color" "0 191 104"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -40213,18 +39985,600 @@ world
 		}
 		editor
 		{
-			"color" "0 209 142"
+			"color" "139 196 0"
+			"groupid" "6071"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	solid
 	{
-		"id" "6057"
+		"id" "6027"
 		side
 		{
-			"id" "7536"
-			"plane" "(-1876 -2624 32) (-1876 -2624 12) (-1876 -2568 12)"
+			"id" "7502"
+			"plane" "(-1872 -2568 36) (-1872 -2556 36) (-1848 -2556 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7501"
+			"plane" "(-1872 -2556 32) (-1872 -2568 32) (-1848 -2568 32)"
+			"material" "/METAL2"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7500"
+			"plane" "(-1872 -2568 32) (-1872 -2556 32) (-1872 -2556 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7499"
+			"plane" "(-1848 -2556 32) (-1848 -2568 32) (-1848 -2568 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7498"
+			"plane" "(-1872 -2556 32) (-1848 -2556 32) (-1848 -2556 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7497"
+			"plane" "(-1848 -2568 32) (-1872 -2568 32) (-1872 -2568 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "139 196 0"
+			"groupid" "6065"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6032"
+		side
+		{
+			"id" "7514"
+			"plane" "(-1876 -2556 34) (-1872 -2556 36) (-1872 -2568 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7513"
+			"plane" "(-1876 -2568 30) (-1872 -2568 32) (-1872 -2556 32)"
+			"material" "/METAL2"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7512"
+			"plane" "(-1876 -2556 30) (-1876 -2556 34) (-1876 -2568 34)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7511"
+			"plane" "(-1872 -2568 32) (-1872 -2568 36) (-1872 -2556 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7510"
+			"plane" "(-1872 -2556 32) (-1872 -2556 36) (-1876 -2556 34)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7509"
+			"plane" "(-1876 -2568 30) (-1876 -2568 34) (-1872 -2568 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "139 196 0"
+			"groupid" "6065"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "5419"
+		side
+		{
+			"id" "7257"
+			"plane" "(-1848 -2568 36) (-1848 -2556 36) (-1828 -2556 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 -16] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7256"
+			"plane" "(-1848 -2556 12) (-1848 -2568 12) (-1828 -2568 12)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -16] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7255"
+			"plane" "(-1848 -2568 12) (-1848 -2556 12) (-1848 -2556 36)"
+			"material" "/METAL2"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7254"
+			"plane" "(-1828 -2556 12) (-1828 -2568 12) (-1828 -2568 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7253"
+			"plane" "(-1848 -2556 12) (-1828 -2556 12) (-1828 -2556 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 -16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7252"
+			"plane" "(-1828 -2568 12) (-1848 -2568 12) (-1848 -2568 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "139 196 0"
+			"groupid" "6071"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6073"
+		side
+		{
+			"id" "7574"
+			"plane" "(-1869.67 -2624 5.71429) (-1861 -2624 2) (-1852.33 -2624 5.71429)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[0 0 1 -24] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7573"
+			"plane" "(-1874 -2632 15) (-1869.67 -2632 24.2857) (-1861 -2632 28)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[0 0 1 -24] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7572"
+			"plane" "(-1874 -2624 15) (-1869.67 -2624 24.2857) (-1869.67 -2632 24.2857)"
+			"material" "/METAL2"
+			"uaxis" "[0 0 1 -24] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7571"
+			"plane" "(-1869.67 -2624 24.2857) (-1861 -2624 28) (-1861 -2632 28)"
+			"material" "/METAL2"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7570"
+			"plane" "(-1861 -2624 28) (-1852.33 -2624 24.2857) (-1852.33 -2632 24.2857)"
+			"material" "/METAL2"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7569"
+			"plane" "(-1852.33 -2624 24.2857) (-1848 -2624 15) (-1848 -2632 15)"
+			"material" "/METAL2"
+			"uaxis" "[0 0 1 -24] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7568"
+			"plane" "(-1848 -2624 15) (-1852.33 -2624 5.71429) (-1852.33 -2632 5.71429)"
+			"material" "/METAL2"
+			"uaxis" "[0 0 1 -24] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7567"
+			"plane" "(-1852.33 -2624 5.71429) (-1861 -2624 2) (-1861 -2632 2)"
+			"material" "/METAL2"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7566"
+			"plane" "(-1861 -2624 2) (-1869.67 -2624 5.71429) (-1869.67 -2632 5.71429)"
+			"material" "/METAL2"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7565"
+			"plane" "(-1869.67 -2624 5.71429) (-1874 -2624 15) (-1874 -2632 15)"
+			"material" "/METAL2"
+			"uaxis" "[0 0 1 -24] 0.25"
+			"vaxis" "[0 1 0 24] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 137 178"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6075"
+		side
+		{
+			"id" "7580"
+			"plane" "(-1872 -2636 36) (-1872 -2624 36) (-1848 -2624 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7579"
+			"plane" "(-1872 -2624 32) (-1872 -2636 32) (-1848 -2636 32)"
+			"material" "/METAL2"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7578"
+			"plane" "(-1872 -2636 32) (-1872 -2624 32) (-1872 -2624 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7577"
+			"plane" "(-1848 -2624 32) (-1848 -2636 32) (-1848 -2636 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7576"
+			"plane" "(-1872 -2624 32) (-1848 -2624 32) (-1848 -2624 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7575"
+			"plane" "(-1848 -2636 32) (-1872 -2636 32) (-1872 -2636 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 239 176"
+			"groupid" "6074"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6076"
+		side
+		{
+			"id" "7586"
+			"plane" "(-1876 -2624 34) (-1872 -2624 36) (-1872 -2636 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7585"
+			"plane" "(-1876 -2636 30) (-1872 -2636 32) (-1872 -2624 32)"
+			"material" "/METAL2"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7584"
+			"plane" "(-1876 -2624 30) (-1876 -2624 34) (-1876 -2636 34)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[0 1 0 16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7583"
+			"plane" "(-1872 -2636 32) (-1872 -2636 36) (-1872 -2624 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7582"
+			"plane" "(-1872 -2624 32) (-1872 -2624 36) (-1876 -2624 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7581"
+			"plane" "(-1876 -2636 30) (-1876 -2636 34) (-1872 -2636 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 239 176"
+			"groupid" "6074"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6077"
+		side
+		{
+			"id" "7592"
+			"plane" "(-1848 -2636 36) (-1848 -2624 36) (-1828 -2624 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 -16] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7591"
+			"plane" "(-1848 -2624 12) (-1848 -2636 12) (-1828 -2636 12)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -16] 0.25"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7590"
+			"plane" "(-1848 -2636 12) (-1848 -2624 12) (-1848 -2624 36)"
+			"material" "/METAL2"
+			"uaxis" "[0 1 0 16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7589"
+			"plane" "(-1828 -2624 12) (-1828 -2636 12) (-1828 -2636 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7588"
+			"plane" "(-1848 -2624 12) (-1828 -2624 12) (-1828 -2624 36)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 -16] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7587"
+			"plane" "(-1828 -2636 12) (-1848 -2636 12) (-1848 -2636 36)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 137 106"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6107"
+		side
+		{
+			"id" "7604"
+			"plane" "(-1780 -2564 12) (-1780 -2556 12) (-1780 -2556 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[0 1 0 -40] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
@@ -40234,10 +40588,10 @@ world
 		}
 		side
 		{
-			"id" "7535"
-			"plane" "(-1828 -2624 12) (-1876 -2624 12) (-1876 -2624 32)"
+			"id" "7603"
+			"plane" "(-1780 -2564 12) (-1780 -2564 32) (-1760 -2564 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 40] 0.5"
+			"uaxis" "[1 0 0 52] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40245,10 +40599,10 @@ world
 		}
 		side
 		{
-			"id" "7534"
-			"plane" "(-1828 -2568 12) (-1876 -2568 12) (-1876 -2624 12)"
+			"id" "7602"
+			"plane" "(-1780 -2556 12) (-1780 -2564 12) (-1764 -2564 12)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 40] 0.5"
+			"uaxis" "[1 0 0 52] 0.5"
 			"vaxis" "[0 -1 0 8] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40256,10 +40610,10 @@ world
 		}
 		side
 		{
-			"id" "7533"
-			"plane" "(-1828 -2624 32) (-1876 -2624 32) (-1876 -2568 32)"
+			"id" "7601"
+			"plane" "(-1780 -2564 32) (-1780 -2556 32) (-1760 -2556 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
-			"uaxis" "[1 0 0 40] 0.5"
+			"uaxis" "[1 0 0 52] 0.5"
 			"vaxis" "[0 -1 0 8] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40267,10 +40621,10 @@ world
 		}
 		side
 		{
-			"id" "7532"
-			"plane" "(-1876 -2568 32) (-1876 -2568 12) (-1828 -2568 12)"
-			"material" "/METAL2"
-			"uaxis" "[1 0 0 40] 0.5"
+			"id" "7600"
+			"plane" "(-1780 -2556 12) (-1764 -2556 12) (-1760 -2556 32)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 52] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40278,8 +40632,8 @@ world
 		}
 		side
 		{
-			"id" "7531"
-			"plane" "(-1828 -2568 12) (-1828 -2624 12) (-1828 -2624 32)"
+			"id" "7599"
+			"plane" "(-1764 -2564 12) (-1760 -2564 32) (-1760 -2556 32)"
 			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
 			"uaxis" "[0 1 0 -40] 0.5"
 			"vaxis" "[0 0 -1 24] 0.5"
@@ -40289,7 +40643,159 @@ world
 		}
 		editor
 		{
-			"color" "0 191 104"
+			"color" "0 129 246"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6110"
+		side
+		{
+			"id" "7616"
+			"plane" "(-1780 -2564 40) (-1780 -2564 32) (-1780 -2556 32)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[0 1 0 -40] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7615"
+			"plane" "(-1716 -2564 32) (-1780 -2564 32) (-1780 -2564 40)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 16] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7614"
+			"plane" "(-1716 -2556 32) (-1780 -2556 32) (-1780 -2564 32)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 16] 0.5"
+			"vaxis" "[0 -1 0 8] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7613"
+			"plane" "(-1716 -2564 40) (-1780 -2564 40) (-1780 -2556 40)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 16] 0.5"
+			"vaxis" "[0 -1 0 8] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7612"
+			"plane" "(-1780 -2556 40) (-1780 -2556 32) (-1716 -2556 32)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 16] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7611"
+			"plane" "(-1716 -2556 32) (-1716 -2564 32) (-1716 -2564 40)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[0 1 0 -40] 0.5"
+			"vaxis" "[0 0 -1 24] 0.5"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 129 246"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "6154"
+		side
+		{
+			"id" "7639"
+			"plane" "(-1736 -2560 32) (-1736 -2564 32) (-1760 -2564 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7640"
+			"plane" "(-1732 -2564 12) (-1732 -2560 12) (-1764 -2560 12)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7641"
+			"plane" "(-1760 -2564 32) (-1764 -2564 12) (-1764 -2560 12)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7642"
+			"plane" "(-1732 -2564 12) (-1736 -2564 32) (-1736 -2560 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7643"
+			"plane" "(-1760 -2560 32) (-1764 -2560 12) (-1732 -2560 12)"
+			"material" "/METAL2"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "7644"
+			"plane" "(-1764 -2564 12) (-1760 -2564 32) (-1736 -2564 32)"
+			"material" "NILS_CUSTOM/AWAN/YELLOW JEEP PAINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 237 222"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -40390,6 +40896,37 @@ world
 		editor
 		{
 			"color" "143 208 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "6071"
+		editor
+		{
+			"color" "139 196 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "6065"
+		editor
+		{
+			"color" "139 196 0"
+			"groupid" "6071"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "6074"
+		editor
+		{
+			"color" "0 239 176"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -41561,6 +42098,25 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "6135"
+	"classname" "item_ammo_357_large"
+	"angles" "0 245 0"
+	"disableshadows" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"gmod_allowphysgun" "1"
+	"origin" "-1688 -2592 0.249596"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 8500]"
 	}
 }
 cameras
