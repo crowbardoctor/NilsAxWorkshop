@@ -1,0 +1,20 @@
+"lightmappedreflective"
+{
+	"$basetexture" "custom/WoodFine0001_3"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "1"
+	"$refracttint" "[0 0 0]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "0.25"
+	"$reflecttint" "[1 1 1]"
+
+	"$fresnelpower" "18"
+	"$minreflectivity" ".205"
+	"$maxreflectivity" "1.2"
+	
+	"$normalmap" "custom/WoodFine0001_2_n"
+
+	"$surfaceprop" "Wood_Solid"
+	"$bumpframe" "0"
+}

@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+	$basetexture "custom/WoodFine0001_2"
+	$bumpmap "custom/woodfine0001_2_n"
+	$surfaceprop Wood_Solid
+
+	$alpha 0.95
+	$translucent 1
+
+	$normalmapalphaenvmapmask 1
+
+	$phong 1
+	$phongexponent 5
+	$phongamount "[1 1 1 1]"
+}
