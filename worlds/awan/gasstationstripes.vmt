@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "awan/gasstationstripes"
+	$surfaceprop Metal
+
+	$selfillum 1
+	$selfillummask "awan/gasstationstripes_selfillummask"
+
+	%keywords "gasstation"
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "awan/dirtroad03_t"
+	$bumpmap "awan/dirtroad03_ssbump"
+	$surfaceprop Dirt
+	$ssbump 1
+}

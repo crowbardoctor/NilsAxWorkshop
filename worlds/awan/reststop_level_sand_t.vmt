@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture "awan/reststop_level_sand_t"
+
+	$translucent 1
+	$decal 1
+
+	$decalscale 0.25
+}

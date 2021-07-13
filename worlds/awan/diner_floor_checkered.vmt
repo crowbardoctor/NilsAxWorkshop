@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "awan/diner_floor_checkered"
+	$bumpmap "awan/diner_floor_checkered_n"
+
+	%keywords "diner"
+}

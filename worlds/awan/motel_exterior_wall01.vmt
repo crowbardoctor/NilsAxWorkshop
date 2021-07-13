@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture "awan/motel_exterior_wall01"
+	$bumpmap "awan/motel_exterior_wall01_ssbump"
+	$surfaceprop Wood_Plank
+	$ssbump 1
+
+	%keywords "motel"
+}

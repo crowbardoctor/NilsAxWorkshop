@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "awan/reststop_level_highway_t"
+	$bumpmap "awan/reststop_level_highway_ssbump"
+	$surfaceprop Concrete
+	$ssbump 1
+}

@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "awan/stonetilefloor2"
+	$bumpmap "awan/stonetilefloor2_n"
+	$surfaceprop Porcelain
+
+	%keywords "motel"
+}

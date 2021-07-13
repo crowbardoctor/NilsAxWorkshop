@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "awan/diner_exterior_wall"
+	$bumpmap "awan/diner_exterior_wall_n"
+	$surfaceprop Concrete
+
+	%keywords "diner"
+}

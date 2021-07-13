@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "awan/stonepost_groutless_medres"
+	$bumpmap "awan/stonepost_groutless_ssbump"
+	$surfaceprop Rock
+	$ssbump 1
+}
